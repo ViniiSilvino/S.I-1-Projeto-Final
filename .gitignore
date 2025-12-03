@@ -1,2 +1,11 @@
-**/__pycache__/
-*.pyc
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# VS Code
+.vscode/
+
+# Ambientes virtuais
+venv/
+env/
