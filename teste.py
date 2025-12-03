@@ -8,8 +8,9 @@ from sklearn.ensemble import RandomForestClassifier
 from sklearn.preprocessing import StandardScaler
 from sklearn.metrics import classification_report, accuracy_score
 import os
+from pathlib import Path
 
-BASE_PATH = r'C:\Users\Rafaribas\Desktop\Faculdade\Curso\6º período\SI\Projeto-Final\kaggle_data\data'
+BASE_PATH = Path(__file__).parent / "data"
 
 print("="*80)
 print("⚡ FIX RÁPIDO - PREDITOR DE FUTEBOL")

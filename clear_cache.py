@@ -4,9 +4,10 @@ Script para limpar o cache do Data Explorer
 
 import os
 import shutil
+from pathlib import Path
 
 # Caminho base dos dados
-BASE_PATH = r'C:\Users\Rafaribas\Desktop\Faculdade\Curso\6º período\SI\Projeto-Final\kaggle_data\data'
+BASE_PATH = Path(__file__).parent / "data"
 
 # Caminho do cache
 metadata_path = os.path.join(BASE_PATH, 'metadata')

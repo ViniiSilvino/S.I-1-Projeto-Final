@@ -6,8 +6,9 @@ Execute antes de treinar o modelo para identificar problemas
 import pandas as pd
 import numpy as np
 import os
+from pathlib import Path
 
-BASE_PATH = r'C:\Users\Rafaribas\Desktop\Faculdade\Curso\6º período\SI\Projeto-Final\kaggle_data\data'
+BASE_PATH = Path(__file__).parent / "data"
 
 print("="*80)
 print("🔍 DIAGNÓSTICO DE DADOS - SOCCER DATASET")

@@ -4,8 +4,9 @@ Script para verificar as colunas reais dos CSVs
 
 import pandas as pd
 import os
+from pathlib import Path
 
-BASE_PATH = r'C:\Users\Rafaribas\Desktop\Faculdade\Curso\6º período\SI\Projeto-Final\kaggle_data\data\base_data'
+BASE_PATH = Path(__file__).parent / "data"
 
 print("="*80)
 print("🔍 VERIFICANDO COLUNAS DOS CSVs")

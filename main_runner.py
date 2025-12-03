@@ -20,13 +20,14 @@ import sys
 import os
 import argparse
 import warnings
+from pathlib import Path
 warnings.filterwarnings('ignore')
 
 # =============================================================================
 # CONFIGURAÇÃO
 # =============================================================================
 
-BASE_PATH = r'C:\Users\Rafaribas\Desktop\Faculdade\Curso\6º período\SI\Projeto-Final\kaggle_data\data'
+BASE_PATH = Path(__file__).parent / "data"
 
 # =============================================================================
 # MODO 1: EXPLORAÇÃO DE DADOS OTIMIZADA
