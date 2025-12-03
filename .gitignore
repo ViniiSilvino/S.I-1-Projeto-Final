@@ -1,0 +1,23 @@
+# --- Python Cache (Lixo) ---
+__pycache__/
+*.py[cod]
+*$py.class
+
+# --- Logs de execução (Sujam o histórico) ---
+*.log
+# Específico para os seus logs de experimento
+experiment_*.log
+
+# --- Modelos e Dados Binários (Arquivos pesados) ---
+*.pkl
+*.pickle
+# Se quiser ignorar a pasta de modelos inteira, descomente a linha abaixo:
+# models/
+
+# --- Configurações do VS Code ---
+.vscode/
+
+# --- Ambientes Virtuais (Se criar no futuro) ---
+venv/
+env/
+.venv/
