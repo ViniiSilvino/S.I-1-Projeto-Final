@@ -1,0 +1,84 @@
+2025-12-03 00:38:25,719 - experiment_20251203_003825 - INFO - ======================================================================
+2025-12-03 00:38:25,720 - experiment_20251203_003825 - INFO - CARREGANDO DADOS DO DATASET
+2025-12-03 00:38:25,720 - experiment_20251203_003825 - INFO - ======================================================================
+2025-12-03 00:38:25,720 - experiment_20251203_003825 - INFO - Carregando arquivos base...
+2025-12-03 00:38:25,720 - experiment_20251203_003825 - INFO - Arquivos encontrados: ['dB_diagram.png', 'fixtures.csv', 'keyEventDescription.csv', 'leagues.csv', 'players.csv', 'standings.csv', 'status.csv', 'teamRoster.csv', 'teams.csv', 'teamStats.csv', 'venues.csv']
+2025-12-03 00:38:25,962 - experiment_20251203_003825 - INFO - Pré-processando dados...
+2025-12-03 00:38:25,987 - experiment_20251203_003825 - INFO - Dicionário de times criado usando coluna: name
+2025-12-03 00:38:25,988 - experiment_20251203_003825 - INFO - Dicionário de ligas criado usando coluna: leagueName
+2025-12-03 00:38:26,506 - experiment_20251203_003825 - INFO - 
+VISÃO GERAL:
+2025-12-03 00:38:26,507 - experiment_20251203_003825 - INFO -    Período: 2024-01-01 até 2026-10-06
+2025-12-03 00:38:26,507 - experiment_20251203_003825 - INFO -    Partidas completas: 67,065 (100.0%)
+2025-12-03 00:38:26,509 - experiment_20251203_003825 - INFO - 
+TOP 10 Ligas:
+2025-12-03 00:38:26,509 - experiment_20251203_003825 - INFO -    NCAA Women's Soccer: 4,331 partidas
+2025-12-03 00:38:26,509 - experiment_20251203_003825 - INFO -    NCAA Men's Soccer: 2,535 partidas
+2025-12-03 00:38:26,510 - experiment_20251203_003825 - INFO -    Argentine Nacional B: 1,379 partidas
+2025-12-03 00:38:26,510 - experiment_20251203_003825 - INFO -    English League Two: 1,109 partidas
+2025-12-03 00:38:26,510 - experiment_20251203_003825 - INFO -    English National League: 1,109 partidas
+2025-12-03 00:38:26,510 - experiment_20251203_003825 - INFO -    English League One: 1,109 partidas
+2025-12-03 00:38:26,510 - experiment_20251203_003825 - INFO -    English League Championship: 1,109 partidas
+2025-12-03 00:38:26,510 - experiment_20251203_003825 - INFO -    MLS: 1,071 partidas
+2025-12-03 00:38:26,511 - experiment_20251203_003825 - INFO -    Argentine Primera C: 993 partidas
+2025-12-03 00:38:26,511 - experiment_20251203_003825 - INFO -    Spanish LALIGA 2: 930 partidas
+2025-12-03 00:38:26,512 - experiment_20251203_003825 - INFO - 
+======================================================================
+2025-12-03 00:38:26,512 - experiment_20251203_003825 - INFO - ENGENHARIA DE FEATURES
+2025-12-03 00:38:26,512 - experiment_20251203_003825 - INFO - ======================================================================
+2025-12-03 00:38:26,518 - experiment_20251203_003825 - INFO - Partidas finalizadas: 67,065
+2025-12-03 00:38:26,532 - experiment_20251203_003825 - INFO - Processando 3,000 partidas...
+2025-12-03 00:38:38,886 - experiment_20251203_003825 - INFO - ✅ 2,178 partidas com features completas
+2025-12-03 00:38:38,886 - experiment_20251203_003825 - INFO - 
+DISTRIBUICAO FINAL do target:
+2025-12-03 00:38:38,887 - experiment_20251203_003825 - INFO -    Away Win (0): 539 (24.7%)
+2025-12-03 00:38:38,887 - experiment_20251203_003825 - INFO -    Draw (1): 831 (38.2%)
+2025-12-03 00:38:38,887 - experiment_20251203_003825 - INFO -    Home Win (2): 808 (37.1%)
+2025-12-03 00:38:38,895 - experiment_20251203_003825 - INFO - Total de features criadas: 61
+2025-12-03 00:38:38,899 - experiment_20251203_003825 - INFO - 
+======================================================================
+2025-12-03 00:38:38,899 - experiment_20251203_003825 - INFO - TREINAMENTO ENSEMBLE
+2025-12-03 00:38:38,899 - experiment_20251203_003825 - INFO - ======================================================================
+2025-12-03 00:38:38,899 - experiment_20251203_003825 - INFO - 
+Treinando Random Forest...
+2025-12-03 00:38:38,900 - experiment_20251203_003825 - INFO - Treino: 1,742 partidas
+2025-12-03 00:38:38,900 - experiment_20251203_003825 - INFO - Teste: 436 partidas
+2025-12-03 00:38:39,141 - experiment_20251203_003825 - INFO - 
+RESULTADOS DO MODELO:
+2025-12-03 00:38:39,141 - experiment_20251203_003825 - INFO - ======================================================================
+2025-12-03 00:38:39,141 - experiment_20251203_003825 - INFO - Acurácia Treino: 82.4%
+2025-12-03 00:38:39,141 - experiment_20251203_003825 - INFO - Acurácia Teste: 28.9%
+2025-12-03 00:38:39,141 - experiment_20251203_003825 - INFO - 
+Relatório Detalhado:
+2025-12-03 00:38:39,142 - experiment_20251203_003825 - INFO - ----------------------------------------------------------------------
+2025-12-03 00:38:39,146 - experiment_20251203_003825 - INFO -               precision    recall  f1-score   support
+
+    Away Win      0.129     0.556     0.209        36
+        Draw      0.900     0.205     0.333       352
+    Home Win      0.169     0.708     0.273        48
+
+    accuracy                          0.289       436
+   macro avg      0.399     0.489     0.272       436
+weighted avg      0.756     0.289     0.316       436
+
+2025-12-03 00:38:39,147 - experiment_20251203_003825 - INFO - 
+Matriz de Confusão:
+2025-12-03 00:38:39,147 - experiment_20251203_003825 - INFO - ----------------------------------------------------------------------
+2025-12-03 00:38:39,148 - experiment_20251203_003825 - INFO - 
+Top 15 Features Mais Importantes:
+2025-12-03 00:38:39,148 - experiment_20251203_003825 - INFO - ----------------------------------------------------------------------
+2025-12-03 00:38:39,167 - experiment_20251203_003825 - INFO -    goal_diff_diff                 0.0673
+2025-12-03 00:38:39,167 - experiment_20251203_003825 - INFO -    points_diff                    0.0591
+2025-12-03 00:38:39,168 - experiment_20251203_003825 - INFO -    rank_diff                      0.0515
+2025-12-03 00:38:39,168 - experiment_20251203_003825 - INFO -    home_win_rate                  0.0463
+2025-12-03 00:38:39,168 - experiment_20251203_003825 - INFO -    home_points_per_game           0.0366
+2025-12-03 00:38:39,168 - experiment_20251203_003825 - INFO -    away_win_rate                  0.0330
+2025-12-03 00:38:39,168 - experiment_20251203_003825 - INFO -    home_avg_goals_against         0.0315
+2025-12-03 00:38:39,168 - experiment_20251203_003825 - INFO -    home_avg_goals_for             0.0306
+2025-12-03 00:38:39,169 - experiment_20251203_003825 - INFO -    away_points_per_game           0.0275
+2025-12-03 00:38:39,169 - experiment_20251203_003825 - INFO -    away_goal_diff                 0.0270
+2025-12-03 00:38:39,169 - experiment_20251203_003825 - INFO -    home_goal_diff                 0.0265
+2025-12-03 00:38:39,169 - experiment_20251203_003825 - INFO -    away_avg_goals_for             0.0262
+2025-12-03 00:38:39,169 - experiment_20251203_003825 - INFO -    away_team_rank                 0.0244
+2025-12-03 00:38:39,169 - experiment_20251203_003825 - INFO -    away_avg_goals_against         0.0238
+2025-12-03 00:38:39,170 - experiment_20251203_003825 - INFO -    home_ties                      0.0202

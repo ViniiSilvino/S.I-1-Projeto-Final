@@ -3,12 +3,11 @@ Script de Diagnóstico - Verificar qualidade dos dados
 Execute antes de treinar o modelo para identificar problemas
 """
 
-from pathlib import Path
 import pandas as pd
 import numpy as np
 import os
 
-BASE_PATH = Path(__file__).parent / "data"
+BASE_PATH = r'C:\Users\Rafaribas\Desktop\Faculdade\Curso\6º período\SI\Projeto-Final\kaggle_data\data'
 
 print("="*80)
 print("🔍 DIAGNÓSTICO DE DADOS - SOCCER DATASET")
