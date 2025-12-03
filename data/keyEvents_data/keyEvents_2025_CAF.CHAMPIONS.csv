@@ -1,0 +1,431 @@
+seasonType,eventId,keyEventOrder,playId,keyEventTypeId,period,clockValue,clockDisplayValue,scoringPlay,shootout,keyEventText,keyEventShortText,teamId,goalPositionX,goalPositionY,fieldPositionX,fieldPositionY,fieldPosition2X,fieldPosition2Y,participantOrder,athleteId,updateDateTime
+13812,760710,1,46446086,94,1,1260,21',0,0,Quinito (Petro de Luanda) Yellow Card at 21',Quinito Yellow Card,19436,0.0,0.0,0.0,0.0,0.0,0.0,1,318607,2025-11-27 06:09:14
+13812,760710,3,46446569,76,2,3180,53',0,0,Jonathan Sowah (Simba SC) Substitution at 53',Jonathan Sowah Substitution,19414,0.0,0.0,0.0,0.0,0.0,0.0,1,370026,2025-11-25 03:07:07
+13812,760710,2,46446555,76,2,3180,53',0,0,Jean Ahoua (Simba SC) Substitution at 53',Jean Ahoua Substitution,19414,0.0,0.0,0.0,0.0,0.0,0.0,1,396879,2025-11-25 03:07:07
+13812,760710,3,46446569,76,2,3180,53',0,0,Jonathan Sowah (Simba SC) Substitution at 53',Jonathan Sowah Substitution,19414,0.0,0.0,0.0,0.0,0.0,0.0,2,337305,2025-11-25 03:07:07
+13812,760710,2,46446555,76,2,3180,53',0,0,Jean Ahoua (Simba SC) Substitution at 53',Jean Ahoua Substitution,19414,0.0,0.0,0.0,0.0,0.0,0.0,2,312846,2025-11-25 03:07:07
+13812,760710,4,46446673,94,2,3600,60',0,0,Jonathan Toro (Petro de Luanda) Yellow Card at 60',Jonathan Toro Yellow Card,19436,0.0,0.0,0.0,0.0,0.0,0.0,1,272211,2025-11-25 03:07:07
+13812,760710,5,46446703,76,2,3780,63',0,0,Gilberto (Petro de Luanda) Substitution at 63',Gilberto Substitution,19436,0.0,0.0,0.0,0.0,0.0,0.0,1,354975,2025-11-27 06:09:14
+13812,760710,5,46446703,76,2,3780,63',0,0,Gilberto (Petro de Luanda) Substitution at 63',Gilberto Substitution,19436,0.0,0.0,0.0,0.0,0.0,0.0,1,316732,2025-11-27 06:09:14
+13812,760710,5,46446703,76,2,3780,63',0,0,Gilberto (Petro de Luanda) Substitution at 63',Gilberto Substitution,19436,0.0,0.0,0.0,0.0,0.0,0.0,1,253936,2025-11-27 06:09:14
+13812,760710,5,46446703,76,2,3780,63',0,0,Gilberto (Petro de Luanda) Substitution at 63',Gilberto Substitution,19436,0.0,0.0,0.0,0.0,0.0,0.0,1,251846,2025-11-27 06:09:14
+13812,760710,5,46446703,76,2,3780,63',0,0,Gilberto (Petro de Luanda) Substitution at 63',Gilberto Substitution,19436,0.0,0.0,0.0,0.0,0.0,0.0,1,199679,2025-11-27 06:09:14
+13812,760710,5,46446703,76,2,3780,63',0,0,Gilberto (Petro de Luanda) Substitution at 63',Gilberto Substitution,19436,0.0,0.0,0.0,0.0,0.0,0.0,1,198761,2025-11-27 06:09:14
+13812,760710,5,46446703,76,2,3780,63',0,0,Gilberto (Petro de Luanda) Substitution at 63',Gilberto Substitution,19436,0.0,0.0,0.0,0.0,0.0,0.0,2,414914,2025-11-27 06:09:14
+13812,760710,6,46446704,76,2,3840,64',0,0,Tiago Reis (Petro de Luanda) Substitution at 64',Tiago Reis Substitution,19436,0.0,0.0,0.0,0.0,0.0,0.0,1,285656,2025-11-27 06:09:14
+13812,760710,6,46446704,76,2,3840,64',0,0,Tiago Reis (Petro de Luanda) Substitution at 64',Tiago Reis Substitution,19436,0.0,0.0,0.0,0.0,0.0,0.0,2,335413,2025-11-27 06:09:14
+13812,760710,7,46446805,76,2,4380,73',0,0,Ladaki Juma (Simba SC) Substitution at 73',Ladaki Juma Substitution,19414,0.0,0.0,0.0,0.0,0.0,0.0,1,376927,2025-11-25 03:07:07
+13812,760710,7,46446805,76,2,4380,73',0,0,Ladaki Juma (Simba SC) Substitution at 73',Ladaki Juma Substitution,19414,0.0,0.0,0.0,0.0,0.0,0.0,2,363564,2025-11-25 03:07:07
+13812,760710,8,46446873,70,2,4680,78',1,0,Bernardo Oliveira (Petro de Luanda) Goal at 78',Bernardo Oliveira Goal,19436,0.0,0.0,0.0,0.0,0.0,0.0,1,241696,2025-11-28 06:15:23
+13812,760710,9,46446973,76,2,5040,84',0,0,Steven Mukwala (Simba SC) Substitution at 84',Steven Mukwala Substitution,19414,0.0,0.0,0.0,0.0,0.0,0.0,1,320061,2025-11-25 03:07:07
+13812,760710,9,46446973,76,2,5040,84',0,0,Steven Mukwala (Simba SC) Substitution at 84',Steven Mukwala Substitution,19414,0.0,0.0,0.0,0.0,0.0,0.0,2,321296,2025-11-25 03:07:07
+13812,760710,10,46447001,76,2,5160,86',0,0,Vidinho (Petro de Luanda) Substitution at 86',Vidinho Substitution,19436,0.0,0.0,0.0,0.0,0.0,0.0,1,326280,2025-11-25 03:07:07
+13812,760710,10,46447001,76,2,5160,86',0,0,Vidinho (Petro de Luanda) Substitution at 86',Vidinho Substitution,19436,0.0,0.0,0.0,0.0,0.0,0.0,1,314477,2025-11-25 03:07:07
+13812,760710,10,46447001,76,2,5160,86',0,0,Vidinho (Petro de Luanda) Substitution at 86',Vidinho Substitution,19436,0.0,0.0,0.0,0.0,0.0,0.0,2,354194,2025-11-25 03:07:07
+13812,760710,10,46447001,76,2,5160,86',0,0,Vidinho (Petro de Luanda) Substitution at 86',Vidinho Substitution,19436,0.0,0.0,0.0,0.0,0.0,0.0,2,344903,2025-11-25 03:07:07
+13812,760710,11,46447022,76,2,5220,87',0,0,Julinho (Petro de Luanda) Substitution at 87',Julinho Substitution,19436,0.0,0.0,0.0,0.0,0.0,0.0,1,354185,2025-11-25 03:07:07
+13812,760710,11,46447022,76,2,5220,87',0,0,Julinho (Petro de Luanda) Substitution at 87',Julinho Substitution,19436,0.0,0.0,0.0,0.0,0.0,0.0,1,341855,2025-11-25 03:07:07
+13812,760710,11,46447022,76,2,5220,87',0,0,Julinho (Petro de Luanda) Substitution at 87',Julinho Substitution,19436,0.0,0.0,0.0,0.0,0.0,0.0,1,143889,2025-11-25 03:07:07
+13812,760710,11,46447022,76,2,5220,87',0,0,Julinho (Petro de Luanda) Substitution at 87',Julinho Substitution,19436,0.0,0.0,0.0,0.0,0.0,0.0,2,241696,2025-11-25 03:07:07
+13812,760710,12,46447091,94,2,5400,90',0,0,Jean Ahoua (Simba SC) Yellow Card at 90',Jean Ahoua Yellow Card,19414,0.0,0.0,0.0,0.0,0.0,0.0,1,396879,2025-11-25 03:07:07
+13812,760711,1,46440662,97,1,780,13',1,0,Aaron Katebe (Power Dynamos) Own Goal at 13',Aaron Katebe Own Goal,19221,0.0,0.0,0.0,0.0,0.0,0.0,1,173796,2025-11-23 06:10:36
+13812,760711,2,46440699,70,1,960,16',1,0,Mounir Chouiar (RSB Berkane) Goal at 16',Mounir Chouiar Goal,19221,0.0,0.0,0.0,0.0,0.0,0.0,1,240368,2025-11-23 06:10:36
+13812,760711,3,46440832,76,1,1500,25',0,0,Rayane Aabid (RSB Berkane) Substitution at 25',Rayane Aabid Substitution,19221,0.0,0.0,0.0,0.0,0.0,0.0,1,232208,2025-11-23 06:10:36
+13812,760711,3,46440832,76,1,1500,25',0,0,Rayane Aabid (RSB Berkane) Substitution at 25',Rayane Aabid Substitution,19221,0.0,0.0,0.0,0.0,0.0,0.0,2,360333,2025-11-23 06:10:36
+13812,760711,4,46440935,94,1,2040,34',0,0,Hamza El Moussaoui (RSB Berkane) Yellow Card at 34',Hamza El Moussaoui Yellow Card,19221,0.0,0.0,0.0,0.0,0.0,0.0,1,214496,2025-11-23 06:10:36
+13812,760711,5,46440942,94,1,2160,36',0,0,Daniel Adoko (Power Dynamos) Yellow Card at 36',Daniel Adoko Yellow Card,8054,0.0,0.0,0.0,0.0,0.0,0.0,1,315846,2025-11-23 06:10:36
+13812,760711,6,46441129,76,2,2700,45',0,0,Chifundo Mphasi (Power Dynamos) Substitution at 45',Chifundo Mphasi Substitution,8054,0.0,0.0,0.0,0.0,0.0,0.0,1,363767,2025-11-23 06:10:36
+13812,760711,6,46441129,76,2,2700,45',0,0,Chifundo Mphasi (Power Dynamos) Substitution at 45',Chifundo Mphasi Substitution,8054,0.0,0.0,0.0,0.0,0.0,0.0,2,414849,2025-11-23 06:10:36
+13812,760711,7,46441197,76,2,3060,51',0,0,Amine Azri (RSB Berkane) Substitution at 51',Amine Azri Substitution,19221,0.0,0.0,0.0,0.0,0.0,0.0,1,414533,2025-11-23 06:10:36
+13812,760711,7,46441197,76,2,3060,51',0,0,Amine Azri (RSB Berkane) Substitution at 51',Amine Azri Substitution,19221,0.0,0.0,0.0,0.0,0.0,0.0,2,377519,2025-11-23 06:10:36
+13812,760711,8,46441348,98,2,3900,65',1,0,Paul Bassene (RSB Berkane) Penalty - Scored at 65',Paul Bassene Penalty - Scored,19221,0.0,0.0,0.0,0.0,0.0,0.0,1,313848,2025-11-23 06:10:36
+13812,760711,9,46441416,76,2,4140,69',0,0,Kapembwa Musonda (Power Dynamos) Substitution at 69',Kapembwa Musonda Substitution,8054,0.0,0.0,0.0,0.0,0.0,0.0,1,414852,2025-11-23 06:10:36
+13812,760711,9,46441416,76,2,4140,69',0,0,Kapembwa Musonda (Power Dynamos) Substitution at 69',Kapembwa Musonda Substitution,8054,0.0,0.0,0.0,0.0,0.0,0.0,2,315846,2025-11-23 06:10:36
+13812,760711,12,46441521,76,2,4620,77',0,0,Youness El Kaabi (RSB Berkane) Substitution at 77',Youness El Kaabi Substitution,19221,0.0,0.0,0.0,0.0,0.0,0.0,1,408158,2025-11-23 06:10:36
+13812,760711,10,46441495,76,2,4620,77',0,0,Reda Hajji (RSB Berkane) Substitution at 77',Reda Hajji Substitution,19221,0.0,0.0,0.0,0.0,0.0,0.0,1,317803,2025-11-23 06:10:36
+13812,760711,11,46441520,76,2,4620,77',0,0,Ismal Kandouss (RSB Berkane) Substitution at 77',Ismal Kandouss Substitution,19221,0.0,0.0,0.0,0.0,0.0,0.0,1,287247,2025-11-23 06:10:36
+13812,760711,11,46441520,76,2,4620,77',0,0,Ismal Kandouss (RSB Berkane) Substitution at 77',Ismal Kandouss Substitution,19221,0.0,0.0,0.0,0.0,0.0,0.0,2,218212,2025-11-23 06:10:36
+13812,760711,10,46441495,76,2,4620,77',0,0,Reda Hajji (RSB Berkane) Substitution at 77',Reda Hajji Substitution,19221,0.0,0.0,0.0,0.0,0.0,0.0,2,285653,2025-11-23 06:10:36
+13812,760711,12,46441521,76,2,4620,77',0,0,Youness El Kaabi (RSB Berkane) Substitution at 77',Youness El Kaabi Substitution,19221,0.0,0.0,0.0,0.0,0.0,0.0,2,313848,2025-11-23 06:10:36
+13812,760711,13,46441559,76,2,4740,79',0,0,Brian Masanyinga (Power Dynamos) Substitution at 79',Brian Masanyinga Substitution,8054,0.0,0.0,0.0,0.0,0.0,0.0,1,414846,2025-11-23 06:10:36
+13812,760711,13,46441559,76,2,4740,79',0,0,Brian Masanyinga (Power Dynamos) Substitution at 79',Brian Masanyinga Substitution,8054,0.0,0.0,0.0,0.0,0.0,0.0,2,363368,2025-11-23 06:10:36
+13812,760711,14,46441647,76,2,5100,85',0,0,Salulani Phiri (Power Dynamos) Substitution at 85',Salulani Phiri Substitution,8054,0.0,0.0,0.0,0.0,0.0,0.0,1,181381,2025-11-23 06:10:36
+13812,760711,14,46441647,76,2,5100,85',0,0,Salulani Phiri (Power Dynamos) Substitution at 85',Salulani Phiri Substitution,8054,0.0,0.0,0.0,0.0,0.0,0.0,2,363281,2025-11-23 06:10:36
+13812,760712,1,46433288,94,1,1920,32',0,0,Maxi Nzengeli (Young Africans) Yellow Card at 32',Maxi Nzengeli Yellow Card,19223,0.0,0.0,0.0,0.0,0.0,0.0,1,377171,2025-11-22 15:16:26
+13812,760712,2,46433619,76,2,2700,45',0,0,Abdelfattah Hadraf (FAR Rabat) Substitution at 45',Abdelfattah Hadraf Substitution,21801,0.0,0.0,0.0,0.0,0.0,0.0,1,359000,2025-11-22 15:16:26
+13812,760712,3,46433637,76,2,2700,45',0,0,Hamza Khabba (FAR Rabat) Substitution at 45',Hamza Khabba Substitution,21801,0.0,0.0,0.0,0.0,0.0,0.0,1,358700,2025-11-22 15:16:26
+13812,760712,3,46433637,76,2,2700,45',0,0,Hamza Khabba (FAR Rabat) Substitution at 45',Hamza Khabba Substitution,21801,0.0,0.0,0.0,0.0,0.0,0.0,2,313074,2025-11-22 15:16:26
+13812,760712,2,46433619,76,2,2700,45',0,0,Abdelfattah Hadraf (FAR Rabat) Substitution at 45',Abdelfattah Hadraf Substitution,21801,0.0,0.0,0.0,0.0,0.0,0.0,2,396856,2025-11-22 15:16:26
+13812,760712,5,46433867,94,2,3420,57',0,0,Reda Tagnaouti (FAR Rabat) Yellow Card at 57',Reda Tagnaouti Yellow Card,21801,0.0,0.0,0.0,0.0,0.0,0.0,1,195240,2025-11-22 15:16:26
+13812,760712,4,46433851,76,2,3420,57',0,0,Edmund John (Young Africans) Substitution at 57',Edmund John Substitution,19223,0.0,0.0,0.0,0.0,0.0,0.0,1,410099,2025-11-22 15:16:26
+13812,760712,4,46433851,76,2,3420,57',0,0,Edmund John (Young Africans) Substitution at 57',Edmund John Substitution,19223,0.0,0.0,0.0,0.0,0.0,0.0,2,398445,2025-11-22 15:16:26
+13812,760712,6,46433869,70,2,3480,58',1,0,Prince Dube (Young Africans) Goal at 58',Prince Dube Goal,19223,0.0,0.0,0.0,0.0,0.0,0.0,1,255148,2025-11-22 15:16:26
+13812,760712,7,46433982,94,2,3840,64',0,0,Mudathiri Yahya (Young Africans) Yellow Card at 64',Mudathiri Yahya Yellow Card,19223,0.0,0.0,0.0,0.0,0.0,0.0,1,187663,2025-11-22 15:16:26
+13812,760712,8,46433988,76,2,3960,66',0,0,Lassine Kouma (Young Africans) Substitution at 66',Lassine Kouma Substitution,19223,0.0,0.0,0.0,0.0,0.0,0.0,1,377499,2025-11-22 15:16:26
+13812,760712,8,46433988,76,2,3960,66',0,0,Lassine Kouma (Young Africans) Substitution at 66',Lassine Kouma Substitution,19223,0.0,0.0,0.0,0.0,0.0,0.0,2,187663,2025-11-22 15:16:26
+13812,760712,9,46434009,76,2,4080,68',0,0,Soulaimane El Bouchqali (FAR Rabat) Substitution at 68',Soulaimane El Bouchqali Substitu,21801,0.0,0.0,0.0,0.0,0.0,0.0,1,359029,2025-11-22 15:16:26
+13812,760712,9,46434009,76,2,4080,68',0,0,Soulaimane El Bouchqali (FAR Rabat) Substitution at 68',Soulaimane El Bouchqali Substitu,21801,0.0,0.0,0.0,0.0,0.0,0.0,2,269565,2025-11-22 15:16:26
+13812,760712,10,46434212,94,2,4800,80',0,0,Hamza Khabba (FAR Rabat) Yellow Card at 80',Hamza Khabba Yellow Card,21801,0.0,0.0,0.0,0.0,0.0,0.0,1,358700,2025-11-23 06:10:36
+13812,760712,11,46434232,76,2,4920,82',0,0,Achref Habbassi (FAR Rabat) Substitution at 82',Achref Habbassi Substitution,21801,0.0,0.0,0.0,0.0,0.0,0.0,1,314441,2025-11-23 06:10:36
+13812,760712,11,46434232,76,2,4920,82',0,0,Achref Habbassi (FAR Rabat) Substitution at 82',Achref Habbassi Substitution,21801,0.0,0.0,0.0,0.0,0.0,0.0,2,359032,2025-11-23 06:10:36
+13812,760712,12,46434255,76,2,4980,83',0,0,Andy Boyeli (Young Africans) Substitution at 83',Andy Boyeli Substitution,19223,0.0,0.0,0.0,0.0,0.0,0.0,1,390441,2025-11-23 06:10:36
+13812,760712,12,46434255,76,2,4980,83',0,0,Andy Boyeli (Young Africans) Substitution at 83',Andy Boyeli Substitution,19223,0.0,0.0,0.0,0.0,0.0,0.0,2,255148,2025-11-23 06:10:36
+13812,760712,13,46434256,76,2,5040,84',0,0,Balla Conté (Young Africans) Substitution at 84',Balla Conté Substitution,19223,0.0,0.0,0.0,0.0,0.0,0.0,1,393574,2025-11-23 06:10:36
+13812,760712,13,46434256,76,2,5040,84',0,0,Balla Conté (Young Africans) Substitution at 84',Balla Conté Substitution,19223,0.0,0.0,0.0,0.0,0.0,0.0,2,377171,2025-11-23 06:10:36
+13812,760712,14,46434416,76,2,5400,90'+2',0,0,Mohcine Bouriga (FAR Rabat) Substitution at 92',Mohcine Bouriga Substitution,21801,0.0,0.0,0.0,0.0,0.0,0.0,1,391669,2025-11-23 06:10:36
+13812,760712,14,46434416,76,2,5400,90'+2',0,0,Mohcine Bouriga (FAR Rabat) Substitution at 92',Mohcine Bouriga Substitution,21801,0.0,0.0,0.0,0.0,0.0,0.0,2,286088,2025-11-23 06:10:36
+13812,760713,1,46438072,70,1,2160,36',1,0,Trézéguet (Al Ahly) Goal at 36',Trézéguet Goal,10207,0.0,0.0,0.0,0.0,0.0,0.0,1,157825,2025-11-28 06:15:23
+13812,760713,2,46438207,70,1,2340,39',1,0,Mohamed Sherif (Al Ahly) Goal at 39',Mohamed Sherif Goal,10207,0.0,0.0,0.0,0.0,0.0,0.0,1,404311,2025-11-23 06:10:36
+13812,760713,2,46438207,70,1,2340,39',1,0,Mohamed Sherif (Al Ahly) Goal at 39',Mohamed Sherif Goal,10207,0.0,0.0,0.0,0.0,0.0,0.0,1,187549,2025-11-23 06:10:36
+13812,760713,3,46438462,94,1,2640,44',0,0,Josaphat Arthur Bada (JS Kabylie) Yellow Card at 44',Josaphat Arthur Bada Yellow Card,7314,0.0,0.0,0.0,0.0,0.0,0.0,1,335614,2025-11-23 06:10:36
+13812,760713,4,46438513,76,1,2640,44',0,0,Mostapha Rezkallah Bott (JS Kabylie) Substitution at 44',Mostapha Rezkallah Bott Substitu,7314,0.0,0.0,0.0,0.0,0.0,0.0,1,414866,2025-11-23 06:10:36
+13812,760713,4,46438513,76,1,2640,44',0,0,Mostapha Rezkallah Bott (JS Kabylie) Substitution at 44',Mostapha Rezkallah Bott Substitu,7314,0.0,0.0,0.0,0.0,0.0,0.0,2,315413,2025-11-23 06:10:36
+13812,760713,6,46439045,76,2,2700,45',0,0,Mohamed Madani (JS Kabylie) Substitution at 45',Mohamed Madani Substitution,7314,0.0,0.0,0.0,0.0,0.0,0.0,1,377230,2025-11-23 06:10:36
+13812,760713,5,46439044,76,2,2700,45',0,0,Lahmriaimen Abdelaziz Lahmri (JS Kabylie) Substitution at 45',Lahmriaimen Abdelaziz Lahmri Sub,7314,0.0,0.0,0.0,0.0,0.0,0.0,1,284757,2025-11-23 06:10:36
+13812,760713,5,46439044,76,2,2700,45',0,0,Lahmriaimen Abdelaziz Lahmri (JS Kabylie) Substitution at 45',Lahmriaimen Abdelaziz Lahmri Sub,7314,0.0,0.0,0.0,0.0,0.0,0.0,2,282384,2025-11-23 06:10:36
+13812,760713,6,46439045,76,2,2700,45',0,0,Mohamed Madani (JS Kabylie) Substitution at 45',Mohamed Madani Substitution,7314,0.0,0.0,0.0,0.0,0.0,0.0,2,335614,2025-11-23 06:10:36
+13812,760713,7,46439183,97,2,3420,57',1,0,Mohamed El Shenawy (Al Ahly) Own Goal at 57',Mohamed El Shenawy Own Goal,7314,0.0,0.0,0.0,0.0,0.0,0.0,1,205212,2025-11-23 06:10:36
+13812,760713,8,46439216,76,2,3660,61',0,0,Aymen Mahious (JS Kabylie) Substitution at 61',Aymen Mahious Substitution,7314,0.0,0.0,0.0,0.0,0.0,0.0,1,276148,2025-11-23 06:10:36
+13812,760713,8,46439216,76,2,3660,61',0,0,Aymen Mahious (JS Kabylie) Substitution at 61',Aymen Mahious Substitution,7314,0.0,0.0,0.0,0.0,0.0,0.0,2,299304,2025-11-23 06:10:36
+13812,760713,9,46439246,76,2,3840,64',0,0,Taher Mohamed (Al Ahly) Substitution at 64',Taher Mohamed Substitution,10207,0.0,0.0,0.0,0.0,0.0,0.0,1,245246,2025-11-23 06:10:36
+13812,760713,9,46439246,76,2,3840,64',0,0,Taher Mohamed (Al Ahly) Substitution at 64',Taher Mohamed Substitution,10207,0.0,0.0,0.0,0.0,0.0,0.0,2,404311,2025-11-23 06:10:36
+13812,760713,9,46439246,76,2,3840,64',0,0,Taher Mohamed (Al Ahly) Substitution at 64',Taher Mohamed Substitution,10207,0.0,0.0,0.0,0.0,0.0,0.0,2,187549,2025-11-23 06:10:36
+13812,760713,10,46439419,76,2,4680,78',0,0,Ryad Boudebouz (JS Kabylie) Substitution at 78',Ryad Boudebouz Substitution,7314,0.0,0.0,0.0,0.0,0.0,0.0,1,111320,2025-11-23 06:10:36
+13812,760713,10,46439419,76,2,4680,78',0,0,Ryad Boudebouz (JS Kabylie) Substitution at 78',Ryad Boudebouz Substitution,7314,0.0,0.0,0.0,0.0,0.0,0.0,2,241303,2025-11-23 06:10:36
+13812,760713,12,46439451,76,2,4740,79',0,0,Emam Ashour (Al Ahly) Substitution at 79',Emam Ashour Substitution,10207,0.0,0.0,0.0,0.0,0.0,0.0,1,299365,2025-11-23 06:10:36
+13812,760713,11,46439450,76,2,4740,79',0,0,Mostafa Shobeir (Al Ahly) Substitution at 79',Mostafa Shobeir Substitution,10207,0.0,0.0,0.0,0.0,0.0,0.0,1,308915,2025-11-23 06:10:36
+13812,760713,12,46439451,76,2,4740,79',0,0,Emam Ashour (Al Ahly) Substitution at 79',Emam Ashour Substitution,10207,0.0,0.0,0.0,0.0,0.0,0.0,2,195154,2025-11-23 06:10:36
+13812,760713,11,46439450,76,2,4740,79',0,0,Mostafa Shobeir (Al Ahly) Substitution at 79',Mostafa Shobeir Substitution,10207,0.0,0.0,0.0,0.0,0.0,0.0,2,205212,2025-11-23 06:10:36
+13812,760713,13,46439504,70,2,5040,84',1,0,Trézéguet (Al Ahly) Goal at 84',Trézéguet Goal,10207,0.0,0.0,0.0,0.0,0.0,0.0,1,157825,2025-11-28 06:15:23
+13812,760713,15,46439574,76,2,5340,89',0,0,Hamza Abdel Karim (Al Ahly) Substitution at 89',Hamza Abdel Karim Substitution,10207,0.0,0.0,0.0,0.0,0.0,0.0,1,399200,2025-11-23 06:10:36
+13812,760713,14,46439573,76,2,5340,89',0,0,Mohamed Ali Ben Romdhane (Al Ahly) Substitution at 89',Mohamed Ali Ben Romdhane Substit,10207,0.0,0.0,0.0,0.0,0.0,0.0,1,283953,2025-11-23 06:10:36
+13812,760713,15,46439574,76,2,5340,89',0,0,Hamza Abdel Karim (Al Ahly) Substitution at 89',Hamza Abdel Karim Substitution,10207,0.0,0.0,0.0,0.0,0.0,0.0,2,357112,2025-11-23 06:10:36
+13812,760713,14,46439573,76,2,5340,89',0,0,Mohamed Ali Ben Romdhane (Al Ahly) Substitution at 89',Mohamed Ali Ben Romdhane Substit,10207,0.0,0.0,0.0,0.0,0.0,0.0,2,157825,2025-11-23 06:10:36
+13812,760713,17,46439659,97,2,5400,90'+3',1,0,Mohamed Hadid (JS Kabylie) Own Goal at 93',Mohamed Hadid Own Goal,10207,0.0,0.0,0.0,0.0,0.0,0.0,1,300987,2025-11-23 06:10:36
+13812,760713,16,46439628,94,2,5400,90'+2',0,0,Redda Benchaa (JS Kabylie) Yellow Card at 92',Redda Benchaa Yellow Card,7314,0.0,0.0,0.0,0.0,0.0,0.0,1,333431,2025-11-23 06:10:36
+13812,760714,1,46430967,76,1,780,13',0,0,Merwane Khelif (MC Alger) Substitution at 13',Merwane Khelif Substitution,7501,0.0,0.0,0.0,0.0,0.0,0.0,1,335562,2025-11-22 15:16:26
+13812,760714,1,46430967,76,1,780,13',0,0,Merwane Khelif (MC Alger) Substitution at 13',Merwane Khelif Substitution,7501,0.0,0.0,0.0,0.0,0.0,0.0,2,357263,2025-11-22 15:16:26
+13812,760714,2,46430968,94,1,1320,22',0,0,Adama Coulibaly (Al Hilal Omdurman) Yellow Card at 22',Adama Coulibaly Yellow Card,18832,0.0,0.0,0.0,0.0,0.0,0.0,1,396754,2025-11-22 15:16:26
+13812,760714,2,46430968,94,1,1320,22',0,0,Adama Coulibaly (Al Hilal Omdurman) Yellow Card at 22',Adama Coulibaly Yellow Card,18832,0.0,0.0,0.0,0.0,0.0,0.0,1,386308,2025-11-22 15:16:26
+13812,760714,2,46430968,94,1,1320,22',0,0,Adama Coulibaly (Al Hilal Omdurman) Yellow Card at 22',Adama Coulibaly Yellow Card,18832,0.0,0.0,0.0,0.0,0.0,0.0,1,380365,2025-11-22 15:16:26
+13812,760714,2,46430968,94,1,1320,22',0,0,Adama Coulibaly (Al Hilal Omdurman) Yellow Card at 22',Adama Coulibaly Yellow Card,18832,0.0,0.0,0.0,0.0,0.0,0.0,1,284325,2025-11-22 15:16:26
+13812,760714,3,46430972,94,1,2400,40',0,0,Soufiane Bayazid (MC Alger) Yellow Card at 40',Soufiane Bayazid Yellow Card,7501,0.0,0.0,0.0,0.0,0.0,0.0,1,357264,2025-11-22 15:16:26
+13812,760714,4,46430973,70,1,2700,45'+2',1,0,Abdel Raouf (Al Hilal Omdurman) Goal at 47',Abdel Raouf Goal,18832,0.0,0.0,0.0,0.0,0.0,0.0,1,302070,2025-11-22 15:16:26
+13812,760714,5,46430981,94,2,3000,50',0,0,Ayoub Abdellaoui (MC Alger) Yellow Card at 50',Ayoub Abdellaoui Yellow Card,7501,0.0,0.0,0.0,0.0,0.0,0.0,1,237878,2025-11-22 15:16:26
+13812,760714,6,46430984,94,2,3120,52',0,0,Salaheldin Adil (Al Hilal Omdurman) Yellow Card at 52',Salaheldin Adil Yellow Card,18832,0.0,0.0,0.0,0.0,0.0,0.0,1,292376,2025-11-22 15:16:26
+13812,760714,6,46430984,94,2,3120,52',0,0,Salaheldin Adil (Al Hilal Omdurman) Yellow Card at 52',Salaheldin Adil Yellow Card,18832,0.0,0.0,0.0,0.0,0.0,0.0,1,287098,2025-11-22 15:16:26
+13812,760714,7,46430985,97,2,3180,53',1,0,Mustafa Karshoum (Al Hilal Omdurman) Own Goal at 53',Mustafa Karshoum Own Goal,7501,0.0,0.0,0.0,0.0,0.0,0.0,1,292380,2025-11-22 15:16:26
+13812,760714,8,46430987,76,2,3720,62',0,0,Amine Messoussa (MC Alger) Substitution at 62',Amine Messoussa Substitution,7501,0.0,0.0,0.0,0.0,0.0,0.0,1,362759,2025-11-22 15:16:26
+13812,760714,8,46430987,76,2,3720,62',0,0,Amine Messoussa (MC Alger) Substitution at 62',Amine Messoussa Substitution,7501,0.0,0.0,0.0,0.0,0.0,0.0,2,357264,2025-11-22 15:16:26
+13812,760714,9,46430989,76,2,3780,63',0,0,Alhassane Bangoura (MC Alger) Substitution at 63',Alhassane Bangoura Substitution,7501,0.0,0.0,0.0,0.0,0.0,0.0,1,407846,2025-11-27 06:09:14
+13812,760714,9,46430989,76,2,3780,63',0,0,Alhassane Bangoura (MC Alger) Substitution at 63',Alhassane Bangoura Substitution,7501,0.0,0.0,0.0,0.0,0.0,0.0,2,287079,2025-11-27 06:09:14
+13812,760714,10,46430993,94,2,4380,73',0,0,Merwane Khelif (MC Alger) Yellow Card at 73',Merwane Khelif Yellow Card,7501,0.0,0.0,0.0,0.0,0.0,0.0,1,335562,2025-11-22 15:16:26
+13812,760714,12,46430991,76,2,4440,74',0,0,Mohamed Abdel Rahman (Al Hilal Omdurman) Substitution at 74',Mohamed Abdel Rahman Substitutio,18832,0.0,0.0,0.0,0.0,0.0,0.0,1,281825,2025-11-22 15:16:26
+13812,760714,12,46430991,76,2,4440,74',0,0,Mohamed Abdel Rahman (Al Hilal Omdurman) Substitution at 74',Mohamed Abdel Rahman Substitutio,18832,0.0,0.0,0.0,0.0,0.0,0.0,1,219604,2025-11-22 15:16:26
+13812,760714,11,46430990,76,2,4440,74',0,0,Ahmed M'Bareck (Al Hilal Omdurman) Substitution at 74',Ahmed M'Bareck Substitution,18832,0.0,0.0,0.0,0.0,0.0,0.0,1,402712,2025-11-22 15:16:26
+13812,760714,11,46430990,76,2,4440,74',0,0,Ahmed M'Bareck (Al Hilal Omdurman) Substitution at 74',Ahmed M'Bareck Substitution,18832,0.0,0.0,0.0,0.0,0.0,0.0,2,396754,2025-11-22 15:16:26
+13812,760714,11,46430990,76,2,4440,74',0,0,Ahmed M'Bareck (Al Hilal Omdurman) Substitution at 74',Ahmed M'Bareck Substitution,18832,0.0,0.0,0.0,0.0,0.0,0.0,2,386308,2025-11-22 15:16:26
+13812,760714,11,46430990,76,2,4440,74',0,0,Ahmed M'Bareck (Al Hilal Omdurman) Substitution at 74',Ahmed M'Bareck Substitution,18832,0.0,0.0,0.0,0.0,0.0,0.0,2,380365,2025-11-22 15:16:26
+13812,760714,11,46430990,76,2,4440,74',0,0,Ahmed M'Bareck (Al Hilal Omdurman) Substitution at 74',Ahmed M'Bareck Substitution,18832,0.0,0.0,0.0,0.0,0.0,0.0,2,284325,2025-11-22 15:16:26
+13812,760714,12,46430991,76,2,4440,74',0,0,Mohamed Abdel Rahman (Al Hilal Omdurman) Substitution at 74',Mohamed Abdel Rahman Substitutio,18832,0.0,0.0,0.0,0.0,0.0,0.0,2,302070,2025-11-22 15:16:26
+13812,760714,13,46430992,70,2,4500,75',1,0,Mohamed Abdel Rahman (Al Hilal Omdurman) Goal at 75',Mohamed Abdel Rahman Goal,18832,0.0,0.0,0.0,0.0,0.0,0.0,1,281825,2025-11-22 15:16:26
+13812,760714,13,46430992,70,2,4500,75',1,0,Mohamed Abdel Rahman (Al Hilal Omdurman) Goal at 75',Mohamed Abdel Rahman Goal,18832,0.0,0.0,0.0,0.0,0.0,0.0,1,219604,2025-11-22 15:16:26
+13812,760714,14,46430994,76,2,4860,81',0,0,Madické Kane (Al Hilal Omdurman) Substitution at 81',Madické Kane Substitution,18832,0.0,0.0,0.0,0.0,0.0,0.0,1,315322,2025-11-22 15:16:26
+13812,760714,14,46430994,76,2,4860,81',0,0,Madické Kane (Al Hilal Omdurman) Substitution at 81',Madické Kane Substitution,18832,0.0,0.0,0.0,0.0,0.0,0.0,2,369593,2025-11-22 15:16:26
+13812,760714,15,46430996,93,2,5220,87',0,0,Salaheldin Adil (Al Hilal Omdurman) Red Card at 87',Salaheldin Adil Red Card,18832,0.0,0.0,0.0,0.0,0.0,0.0,1,292376,2025-11-22 15:16:26
+13812,760714,15,46430996,93,2,5220,87',0,0,Salaheldin Adil (Al Hilal Omdurman) Red Card at 87',Salaheldin Adil Red Card,18832,0.0,0.0,0.0,0.0,0.0,0.0,1,287098,2025-11-22 15:16:26
+13812,760714,17,46430999,76,2,5400,90'+1',0,0,Daniel Mehdid (MC Alger) Substitution at 91',Daniel Mehdid Substitution,7501,0.0,0.0,0.0,0.0,0.0,0.0,1,414792,2025-11-22 15:16:26
+13812,760714,16,46430998,76,2,5400,90',0,0,Yacine Hamadouche (MC Alger) Substitution at 90',Yacine Hamadouche Substitution,7501,0.0,0.0,0.0,0.0,0.0,0.0,1,396837,2025-11-22 15:16:26
+13812,760714,19,46431003,76,2,5400,90'+3',0,0,Faris Abdalla (Al Hilal Omdurman) Substitution at 93',Faris Abdalla Substitution,18832,0.0,0.0,0.0,0.0,0.0,0.0,1,263296,2025-11-22 15:16:26
+13812,760714,18,46431002,76,2,5400,90'+3',0,0,Guessouma Fofana (Al Hilal Omdurman) Substitution at 93',Guessouma Fofana Substitution,18832,0.0,0.0,0.0,0.0,0.0,0.0,1,238390,2025-11-22 15:16:26
+13812,760714,16,46430998,76,2,5400,90',0,0,Yacine Hamadouche (MC Alger) Substitution at 90',Yacine Hamadouche Substitution,7501,0.0,0.0,0.0,0.0,0.0,0.0,2,396832,2025-11-22 15:16:26
+13812,760714,18,46431002,76,2,5400,90'+3',0,0,Guessouma Fofana (Al Hilal Omdurman) Substitution at 93',Guessouma Fofana Substitution,18832,0.0,0.0,0.0,0.0,0.0,0.0,2,278211,2025-11-22 15:16:26
+13812,760714,17,46430999,76,2,5400,90'+1',0,0,Daniel Mehdid (MC Alger) Substitution at 91',Daniel Mehdid Substitution,7501,0.0,0.0,0.0,0.0,0.0,0.0,2,299295,2025-11-22 15:16:26
+13812,760714,19,46431003,76,2,5400,90'+3',0,0,Faris Abdalla (Al Hilal Omdurman) Substitution at 93',Faris Abdalla Substitution,18832,0.0,0.0,0.0,0.0,0.0,0.0,2,273374,2025-11-22 15:16:26
+13812,760747,1,46438417,94,1,2580,43',0,0,Mamdou Traore (Stade Malien) Yellow Card at 43',Mamdou Traore Yellow Card,22077,0.0,0.0,0.0,0.0,0.0,0.0,1,287429,2025-11-23 06:10:36
+13812,760747,2,46439012,76,2,2700,45',0,0,Moussa Diallo (Stade Malien) Substitution at 45',Moussa Diallo Substitution,22077,0.0,0.0,0.0,0.0,0.0,0.0,1,240484,2025-11-23 06:10:36
+13812,760747,2,46439012,76,2,2700,45',0,0,Moussa Diallo (Stade Malien) Substitution at 45',Moussa Diallo Substitution,22077,0.0,0.0,0.0,0.0,0.0,0.0,2,228552,2025-11-23 06:10:36
+13812,760747,3,46439165,94,2,3480,58',0,0,Hamza Jlassi (Esperance Sportive de Tunis) Yellow Card at 58',Hamza Jlassi Yellow Card,8377,0.0,0.0,0.0,0.0,0.0,0.0,1,263350,2025-11-23 06:10:36
+13812,760747,4,46439197,76,2,3840,64',0,0,Achref Jebri (Esperance Sportive de Tunis) Substitution at 64',Achref Jebri Substitution,8377,0.0,0.0,0.0,0.0,0.0,0.0,1,377246,2025-11-23 06:10:36
+13812,760747,4,46439197,76,2,3840,64',0,0,Achref Jebri (Esperance Sportive de Tunis) Substitution at 64',Achref Jebri Substitution,8377,0.0,0.0,0.0,0.0,0.0,0.0,2,315414,2025-11-23 06:10:36
+13812,760747,5,46439245,94,2,4020,67',0,0,Abdoul Sabourh Bode (Stade Malien) Yellow Card at 67',Abdoul Sabourh Bode Yellow Card,22077,0.0,0.0,0.0,0.0,0.0,0.0,1,273118,2025-11-23 06:10:36
+13812,760747,6,46439430,76,2,4800,80',0,0,Aboubacar Diakite (Esperance Sportive de Tunis) Substitution at 80',Aboubacar Diakite Substitution,8377,0.0,0.0,0.0,0.0,0.0,0.0,1,396763,2025-11-23 06:10:36
+13812,760747,7,46439431,76,2,4800,80',0,0,Elyas Bouzaiene (Esperance Sportive de Tunis) Substitution at 80',Elyas Bouzaiene Substitution,8377,0.0,0.0,0.0,0.0,0.0,0.0,1,345685,2025-11-23 06:10:36
+13812,760747,7,46439431,76,2,4800,80',0,0,Elyas Bouzaiene (Esperance Sportive de Tunis) Substitution at 80',Elyas Bouzaiene Substitution,8377,0.0,0.0,0.0,0.0,0.0,0.0,2,285479,2025-11-23 06:10:36
+13812,760747,6,46439430,76,2,4800,80',0,0,Aboubacar Diakite (Esperance Sportive de Tunis) Substitution at 80',Aboubacar Diakite Substitution,8377,0.0,0.0,0.0,0.0,0.0,0.0,2,362999,2025-11-23 06:10:36
+13812,760747,9,46439469,76,2,5040,84',0,0,Haman Mandjan (Stade Malien) Substitution at 84',Haman Mandjan Substitution,22077,0.0,0.0,0.0,0.0,0.0,0.0,1,396909,2025-11-23 06:10:36
+13812,760747,8,46439468,76,2,5040,84',0,0,Mery Camara (Stade Malien) Substitution at 84',Mery Camara Substitution,22077,0.0,0.0,0.0,0.0,0.0,0.0,1,396912,2025-11-23 06:10:36
+13812,760747,9,46439469,76,2,5040,84',0,0,Haman Mandjan (Stade Malien) Substitution at 84',Haman Mandjan Substitution,22077,0.0,0.0,0.0,0.0,0.0,0.0,2,414857,2025-11-23 06:10:36
+13812,760747,9,46439469,76,2,5040,84',0,0,Haman Mandjan (Stade Malien) Substitution at 84',Haman Mandjan Substitution,22077,0.0,0.0,0.0,0.0,0.0,0.0,2,332290,2025-11-23 06:10:36
+13812,760747,9,46439469,76,2,5040,84',0,0,Haman Mandjan (Stade Malien) Substitution at 84',Haman Mandjan Substitution,22077,0.0,0.0,0.0,0.0,0.0,0.0,2,285847,2025-11-23 06:10:36
+13812,760747,8,46439468,76,2,5040,84',0,0,Mery Camara (Stade Malien) Substitution at 84',Mery Camara Substitution,22077,0.0,0.0,0.0,0.0,0.0,0.0,2,128942,2025-11-23 06:10:36
+13812,760747,10,46439530,76,2,5280,88',0,0,Koussay Maacha (Esperance Sportive de Tunis) Substitution at 88',Koussay Maacha Substitution,8377,0.0,0.0,0.0,0.0,0.0,0.0,1,396857,2025-11-23 06:10:36
+13812,760747,10,46439530,76,2,5280,88',0,0,Koussay Maacha (Esperance Sportive de Tunis) Substitution at 88',Koussay Maacha Substitution,8377,0.0,0.0,0.0,0.0,0.0,0.0,2,357303,2025-11-23 06:10:36
+13812,760747,12,46439582,94,2,5400,90'+2',0,0,Haman Mandjan (Stade Malien) Yellow Card at 92',Haman Mandjan Yellow Card,22077,0.0,0.0,0.0,0.0,0.0,0.0,1,396909,2025-11-23 06:10:36
+13812,760747,11,46439561,76,2,5400,90'+2',0,0,Malick Djiguiba (Stade Malien) Substitution at 92',Malick Djiguiba Substitution,22077,0.0,0.0,0.0,0.0,0.0,0.0,1,377503,2025-11-23 06:10:36
+13812,760747,11,46439561,76,2,5400,90'+2',0,0,Malick Djiguiba (Stade Malien) Substitution at 92',Malick Djiguiba Substitution,22077,0.0,0.0,0.0,0.0,0.0,0.0,2,325118,2025-11-23 06:10:36
+13812,760748,1,46433090,70,1,240,4',1,0,Nuno Santos (Mamelodi Sundowns) Goal at 4',Nuno Santos Goal,7084,0.0,0.0,0.0,0.0,0.0,0.0,1,275984,2025-11-22 15:16:26
+13812,760748,1,46433090,70,1,240,4',1,0,Nuno Santos (Mamelodi Sundowns) Goal at 4',Nuno Santos Goal,7084,0.0,0.0,0.0,0.0,0.0,0.0,1,124204,2025-11-22 15:16:26
+13812,760748,2,46433301,94,1,1980,33',0,0,Dramane Kambou (FC Saint Eloi Lupopo) Yellow Card at 33',Dramane Kambou Yellow Card,21805,0.0,0.0,0.0,0.0,0.0,0.0,1,378481,2025-11-22 15:16:26
+13812,760748,3,46433409,70,1,2640,44',1,0,Ramos Kashala Wanet (FC Saint Eloi Lupopo) Goal at 44',Ramos Kashala Wanet Goal,21805,0.0,0.0,0.0,0.0,0.0,0.0,1,414842,2025-11-22 15:16:26
+13812,760748,4,46433902,70,2,3660,61',1,0,Marcelo Allende (Mamelodi Sundowns) Goal at 61',Marcelo Allende Goal,7084,0.0,0.0,0.0,0.0,0.0,0.0,1,228438,2025-11-22 15:16:26
+13812,760748,5,46433924,76,2,3720,62',0,0,Arthur (Mamelodi Sundowns) Substitution at 62',Arthur Substitution,7084,0.0,0.0,0.0,0.0,0.0,0.0,1,399135,2025-11-25 03:07:07
+13812,760748,5,46433924,76,2,3720,62',0,0,Arthur (Mamelodi Sundowns) Substitution at 62',Arthur Substitution,7084,0.0,0.0,0.0,0.0,0.0,0.0,1,357988,2025-11-25 03:07:07
+13812,760748,5,46433924,76,2,3720,62',0,0,Arthur (Mamelodi Sundowns) Substitution at 62',Arthur Substitution,7084,0.0,0.0,0.0,0.0,0.0,0.0,1,357179,2025-11-25 03:07:07
+13812,760748,5,46433924,76,2,3720,62',0,0,Arthur (Mamelodi Sundowns) Substitution at 62',Arthur Substitution,7084,0.0,0.0,0.0,0.0,0.0,0.0,1,335848,2025-11-25 03:07:07
+13812,760748,5,46433924,76,2,3720,62',0,0,Arthur (Mamelodi Sundowns) Substitution at 62',Arthur Substitution,7084,0.0,0.0,0.0,0.0,0.0,0.0,1,335159,2025-11-25 03:07:07
+13812,760748,5,46433924,76,2,3720,62',0,0,Arthur (Mamelodi Sundowns) Substitution at 62',Arthur Substitution,7084,0.0,0.0,0.0,0.0,0.0,0.0,1,334374,2025-11-25 03:07:07
+13812,760748,5,46433924,76,2,3720,62',0,0,Arthur (Mamelodi Sundowns) Substitution at 62',Arthur Substitution,7084,0.0,0.0,0.0,0.0,0.0,0.0,1,315427,2025-11-25 03:07:07
+13812,760748,5,46433924,76,2,3720,62',0,0,Arthur (Mamelodi Sundowns) Substitution at 62',Arthur Substitution,7084,0.0,0.0,0.0,0.0,0.0,0.0,1,315286,2025-11-25 03:07:07
+13812,760748,5,46433924,76,2,3720,62',0,0,Arthur (Mamelodi Sundowns) Substitution at 62',Arthur Substitution,7084,0.0,0.0,0.0,0.0,0.0,0.0,1,314949,2025-11-25 03:07:07
+13812,760748,5,46433924,76,2,3720,62',0,0,Arthur (Mamelodi Sundowns) Substitution at 62',Arthur Substitution,7084,0.0,0.0,0.0,0.0,0.0,0.0,1,314861,2025-11-25 03:07:07
+13812,760748,5,46433924,76,2,3720,62',0,0,Arthur (Mamelodi Sundowns) Substitution at 62',Arthur Substitution,7084,0.0,0.0,0.0,0.0,0.0,0.0,1,271057,2025-11-25 03:07:07
+13812,760748,5,46433924,76,2,3720,62',0,0,Arthur (Mamelodi Sundowns) Substitution at 62',Arthur Substitution,7084,0.0,0.0,0.0,0.0,0.0,0.0,1,218975,2025-11-25 03:07:07
+13812,760748,5,46433924,76,2,3720,62',0,0,Arthur (Mamelodi Sundowns) Substitution at 62',Arthur Substitution,7084,0.0,0.0,0.0,0.0,0.0,0.0,1,216254,2025-11-25 03:07:07
+13812,760748,5,46433924,76,2,3720,62',0,0,Arthur (Mamelodi Sundowns) Substitution at 62',Arthur Substitution,7084,0.0,0.0,0.0,0.0,0.0,0.0,1,202594,2025-11-25 03:07:07
+13812,760748,5,46433924,76,2,3720,62',0,0,Arthur (Mamelodi Sundowns) Substitution at 62',Arthur Substitution,7084,0.0,0.0,0.0,0.0,0.0,0.0,1,155440,2025-11-25 03:07:07
+13812,760748,5,46433924,76,2,3720,62',0,0,Arthur (Mamelodi Sundowns) Substitution at 62',Arthur Substitution,7084,0.0,0.0,0.0,0.0,0.0,0.0,2,290504,2025-11-25 03:07:07
+13812,760748,6,46433974,94,2,3900,65',0,0,Aubrey Modiba (Mamelodi Sundowns) Yellow Card at 65',Aubrey Modiba Yellow Card,7084,0.0,0.0,0.0,0.0,0.0,0.0,1,223818,2025-11-22 15:16:26
+13812,760748,7,46434003,94,2,4140,69',0,0,Ramos Kashala Wanet (FC Saint Eloi Lupopo) Yellow Card at 69',Ramos Kashala Wanet Yellow Card,21805,0.0,0.0,0.0,0.0,0.0,0.0,1,414842,2025-11-22 15:16:26
+13812,760748,8,46434106,76,2,4500,75',0,0,Tenda Mutuila (FC Saint Eloi Lupopo) Substitution at 75',Tenda Mutuila Substitution,21805,0.0,0.0,0.0,0.0,0.0,0.0,1,414843,2025-11-22 15:16:26
+13812,760748,9,46434107,76,2,4500,75',0,0,Jean Benoît Tukumbane (FC Saint Eloi Lupopo) Substitution at 75',Jean Benoît Tukumbane Substituti,21805,0.0,0.0,0.0,0.0,0.0,0.0,1,407807,2025-11-22 15:16:26
+13812,760748,8,46434106,76,2,4500,75',0,0,Tenda Mutuila (FC Saint Eloi Lupopo) Substitution at 75',Tenda Mutuila Substitution,21805,0.0,0.0,0.0,0.0,0.0,0.0,2,414836,2025-11-22 15:16:26
+13812,760748,9,46434107,76,2,4500,75',0,0,Jean Benoît Tukumbane (FC Saint Eloi Lupopo) Substitution at 75',Jean Benoît Tukumbane Substituti,21805,0.0,0.0,0.0,0.0,0.0,0.0,2,407802,2025-11-22 15:16:26
+13812,760748,10,46434129,70,2,4620,77',1,0,Nuno Santos (Mamelodi Sundowns) Goal at 77',Nuno Santos Goal,7084,0.0,0.0,0.0,0.0,0.0,0.0,1,275984,2025-11-22 15:16:26
+13812,760748,10,46434129,70,2,4620,77',1,0,Nuno Santos (Mamelodi Sundowns) Goal at 77',Nuno Santos Goal,7084,0.0,0.0,0.0,0.0,0.0,0.0,1,124204,2025-11-22 15:16:26
+13812,760748,12,46434218,76,2,4920,82',0,0,Thapelo Morena (Mamelodi Sundowns) Substitution at 82',Thapelo Morena Substitution,7084,0.0,0.0,0.0,0.0,0.0,0.0,1,247133,2025-11-23 06:10:36
+13812,760748,11,46434188,76,2,4920,82',0,0,Sphelele Mkhulise (Mamelodi Sundowns) Substitution at 82',Sphelele Mkhulise Substitution,7084,0.0,0.0,0.0,0.0,0.0,0.0,1,277142,2025-11-23 06:10:36
+13812,760748,12,46434218,76,2,4920,82',0,0,Thapelo Morena (Mamelodi Sundowns) Substitution at 82',Thapelo Morena Substitution,7084,0.0,0.0,0.0,0.0,0.0,0.0,2,276767,2025-11-23 06:10:36
+13812,760748,11,46434188,76,2,4920,82',0,0,Sphelele Mkhulise (Mamelodi Sundowns) Substitution at 82',Sphelele Mkhulise Substitution,7084,0.0,0.0,0.0,0.0,0.0,0.0,2,291141,2025-11-23 06:10:36
+13812,760748,14,46434341,76,2,5340,89',0,0,Âgée Basiala (FC Saint Eloi Lupopo) Substitution at 89',Âgée Basiala Substitution,21805,0.0,0.0,0.0,0.0,0.0,0.0,1,396806,2025-11-23 06:10:36
+13812,760748,13,46434340,76,2,5340,89',0,0,Ravel Djoumekou (FC Saint Eloi Lupopo) Substitution at 89',Ravel Djoumekou Substitution,21805,0.0,0.0,0.0,0.0,0.0,0.0,1,414841,2025-11-23 06:10:36
+13812,760748,13,46434340,76,2,5340,89',0,0,Ravel Djoumekou (FC Saint Eloi Lupopo) Substitution at 89',Ravel Djoumekou Substitution,21805,0.0,0.0,0.0,0.0,0.0,0.0,2,414842,2025-11-23 06:10:36
+13812,760748,14,46434341,76,2,5340,89',0,0,Âgée Basiala (FC Saint Eloi Lupopo) Substitution at 89',Âgée Basiala Substitution,21805,0.0,0.0,0.0,0.0,0.0,0.0,2,407794,2025-11-23 06:10:36
+13812,760748,15,46434342,76,2,5400,90',0,0,Kegan Johannes (Mamelodi Sundowns) Substitution at 90',Kegan Johannes Substitution,7084,0.0,0.0,0.0,0.0,0.0,0.0,1,313781,2025-11-23 06:10:36
+13812,760748,16,46434365,76,2,5400,90',0,0,Jayden Adams (Mamelodi Sundowns) Substitution at 90',Jayden Adams Substitution,7084,0.0,0.0,0.0,0.0,0.0,0.0,1,304736,2025-11-23 06:10:36
+13812,760748,16,46434365,76,2,5400,90',0,0,Jayden Adams (Mamelodi Sundowns) Substitution at 90',Jayden Adams Substitution,7084,0.0,0.0,0.0,0.0,0.0,0.0,2,283344,2025-11-23 06:10:36
+13812,760748,15,46434342,76,2,5400,90',0,0,Kegan Johannes (Mamelodi Sundowns) Substitution at 90',Kegan Johannes Substitution,7084,0.0,0.0,0.0,0.0,0.0,0.0,2,155179,2025-11-23 06:10:36
+13812,760749,1,46441181,70,2,3120,52',1,0,Ahmed Atef (Pyramids FC) Goal at 52',Ahmed Atef Goal,20220,0.0,0.0,0.0,0.0,0.0,0.0,1,382442,2025-11-23 06:10:36
+13812,760749,1,46441181,70,2,3120,52',1,0,Ahmed Atef (Pyramids FC) Goal at 52',Ahmed Atef Goal,20220,0.0,0.0,0.0,0.0,0.0,0.0,1,342172,2025-11-23 06:10:36
+13812,760749,2,46441238,70,2,3420,57',1,0,Ahmed Atef (Pyramids FC) Goal at 57',Ahmed Atef Goal,20220,0.0,0.0,0.0,0.0,0.0,0.0,1,382442,2025-11-23 06:10:36
+13812,760749,2,46441238,70,2,3420,57',1,0,Ahmed Atef (Pyramids FC) Goal at 57',Ahmed Atef Goal,20220,0.0,0.0,0.0,0.0,0.0,0.0,1,342172,2025-11-23 06:10:36
+13812,760749,4,46441302,76,2,3720,62',0,0,Mostafa Zico (Pyramids FC) Substitution at 62',Mostafa Zico Substitution,20220,0.0,0.0,0.0,0.0,0.0,0.0,1,378495,2025-11-23 06:10:36
+13812,760749,3,46441293,76,2,3720,62',0,0,Mohamed Reda (Pyramids FC) Substitution at 62',Mohamed Reda Substitution,20220,0.0,0.0,0.0,0.0,0.0,0.0,1,356193,2025-11-23 06:10:36
+13812,760749,3,46441293,76,2,3720,62',0,0,Mohamed Reda (Pyramids FC) Substitution at 62',Mohamed Reda Substitution,20220,0.0,0.0,0.0,0.0,0.0,0.0,1,169666,2025-11-23 06:10:36
+13812,760749,4,46441302,76,2,3720,62',0,0,Mostafa Zico (Pyramids FC) Substitution at 62',Mostafa Zico Substitution,20220,0.0,0.0,0.0,0.0,0.0,0.0,2,290626,2025-11-23 06:10:36
+13812,760749,3,46441293,76,2,3720,62',0,0,Mohamed Reda (Pyramids FC) Substitution at 62',Mohamed Reda Substitution,20220,0.0,0.0,0.0,0.0,0.0,0.0,2,299324,2025-11-23 06:10:36
+13812,760749,6,46441357,76,2,3960,66',0,0,Timothy Zechariah (Rivers United FC) Substitution at 66',Timothy Zechariah Substitution,17795,0.0,0.0,0.0,0.0,0.0,0.0,1,414889,2025-11-23 06:10:36
+13812,760749,5,46441343,76,2,3960,66',0,0,Emanuel Nnaji (Rivers United FC) Substitution at 66',Emanuel Nnaji Substitution,17795,0.0,0.0,0.0,0.0,0.0,0.0,1,414876,2025-11-23 06:10:36
+13812,760749,6,46441357,76,2,3960,66',0,0,Timothy Zechariah (Rivers United FC) Substitution at 66',Timothy Zechariah Substitution,17795,0.0,0.0,0.0,0.0,0.0,0.0,2,299675,2025-11-23 06:10:36
+13812,760749,5,46441343,76,2,3960,66',0,0,Emanuel Nnaji (Rivers United FC) Substitution at 66',Emanuel Nnaji Substitution,17795,0.0,0.0,0.0,0.0,0.0,0.0,2,408171,2025-11-23 06:10:36
+13812,760749,7,46441434,70,2,4320,72',1,0,Ahmed Atef (Pyramids FC) Goal at 72',Ahmed Atef Goal,20220,0.0,0.0,0.0,0.0,0.0,0.0,1,382442,2025-11-23 06:10:36
+13812,760749,7,46441434,70,2,4320,72',1,0,Ahmed Atef (Pyramids FC) Goal at 72',Ahmed Atef Goal,20220,0.0,0.0,0.0,0.0,0.0,0.0,1,342172,2025-11-23 06:10:36
+13812,760749,8,46441448,76,2,4380,73',0,0,Blati Touré (Pyramids FC) Substitution at 73',Blati Touré Substitution,20220,0.0,0.0,0.0,0.0,0.0,0.0,1,251674,2025-11-23 06:10:36
+13812,760749,8,46441448,76,2,4380,73',0,0,Blati Touré (Pyramids FC) Substitution at 73',Blati Touré Substitution,20220,0.0,0.0,0.0,0.0,0.0,0.0,1,206269,2025-11-23 06:10:36
+13812,760749,9,46441451,76,2,4380,73',0,0,Mohamed Hamdy (Pyramids FC) Substitution at 73',Mohamed Hamdy Substitution,20220,0.0,0.0,0.0,0.0,0.0,0.0,1,397007,2025-11-23 06:10:36
+13812,760749,9,46441451,76,2,4380,73',0,0,Mohamed Hamdy (Pyramids FC) Substitution at 73',Mohamed Hamdy Substitution,20220,0.0,0.0,0.0,0.0,0.0,0.0,1,382443,2025-11-23 06:10:36
+13812,760749,9,46441451,76,2,4380,73',0,0,Mohamed Hamdy (Pyramids FC) Substitution at 73',Mohamed Hamdy Substitution,20220,0.0,0.0,0.0,0.0,0.0,0.0,1,272960,2025-11-23 06:10:36
+13812,760749,9,46441451,76,2,4380,73',0,0,Mohamed Hamdy (Pyramids FC) Substitution at 73',Mohamed Hamdy Substitution,20220,0.0,0.0,0.0,0.0,0.0,0.0,1,163192,2025-11-23 06:10:36
+13812,760749,9,46441451,76,2,4380,73',0,0,Mohamed Hamdy (Pyramids FC) Substitution at 73',Mohamed Hamdy Substitution,20220,0.0,0.0,0.0,0.0,0.0,0.0,2,284623,2025-11-23 06:10:36
+13812,760749,8,46441448,76,2,4380,73',0,0,Blati Touré (Pyramids FC) Substitution at 73',Blati Touré Substitution,20220,0.0,0.0,0.0,0.0,0.0,0.0,2,216119,2025-11-23 06:10:36
+13812,760749,10,46441512,76,2,4740,79',0,0,Mohammed El-Gabbas (Pyramids FC) Substitution at 79',Mohammed El-Gabbas Substitution,20220,0.0,0.0,0.0,0.0,0.0,0.0,1,199891,2025-11-23 06:10:36
+13812,760749,10,46441512,76,2,4740,79',0,0,Mohammed El-Gabbas (Pyramids FC) Substitution at 79',Mohammed El-Gabbas Substitution,20220,0.0,0.0,0.0,0.0,0.0,0.0,2,379883,2025-11-23 06:10:36
+13812,760750,1,46490447,70,2,2940,49',1,0,Tiago Reis  (Petro de Luanda) Goal at 49',Tiago Reis  Goal,19436,0.0,0.0,0.0,0.0,0.0,0.0,1,285656,2025-11-30 06:16:50
+13812,760750,2,46490627,76,2,3660,61',0,0,Ilídio (Petro de Luanda) Substitution at 61',Ilídio Substitution,19436,0.0,0.0,0.0,0.0,0.0,0.0,1,414915,2025-11-30 06:16:50
+13812,760750,2,46490627,76,2,3660,61',0,0,Ilídio (Petro de Luanda) Substitution at 61',Ilídio Substitution,19436,0.0,0.0,0.0,0.0,0.0,0.0,2,414914,2025-11-30 06:16:50
+13812,760750,3,46490725,94,2,4080,68',0,0,Jorge Pereira (Petro de Luanda) Yellow Card at 68',Jorge Pereira Yellow Card,19436,0.0,0.0,0.0,0.0,0.0,0.0,1,299528,2025-11-30 06:16:50
+13812,760750,4,46490726,76,2,4140,69',0,0,Achref Jebri (Esperance Sportive de Tunis) Substitution at 69',Achref Jebri Substitution,8377,0.0,0.0,0.0,0.0,0.0,0.0,1,377246,2025-11-30 06:16:50
+13812,760750,4,46490726,76,2,4140,69',0,0,Achref Jebri (Esperance Sportive de Tunis) Substitution at 69',Achref Jebri Substitution,8377,0.0,0.0,0.0,0.0,0.0,0.0,2,315414,2025-11-30 06:16:50
+13812,760750,5,46490822,76,2,4380,73',0,0,Jó Paciência (Petro de Luanda) Substitution at 73',Jó Paciência Substitution,19436,0.0,0.0,0.0,0.0,0.0,0.0,1,335413,2025-11-30 06:16:50
+13812,760750,5,46490822,76,2,4380,73',0,0,Jó Paciência (Petro de Luanda) Substitution at 73',Jó Paciência Substitution,19436,0.0,0.0,0.0,0.0,0.0,0.0,2,285656,2025-11-30 06:16:50
+13812,760750,6,46491023,76,2,4860,81',0,0,Koussay Maacha (Esperance Sportive de Tunis) Substitution at 81',Koussay Maacha Substitution,8377,0.0,0.0,0.0,0.0,0.0,0.0,1,396857,2025-11-30 06:16:50
+13812,760750,7,46491024,76,2,4860,81',0,0,Aboubacar Diakite (Esperance Sportive de Tunis) Substitution at 81',Aboubacar Diakite Substitution,8377,0.0,0.0,0.0,0.0,0.0,0.0,1,396763,2025-11-30 06:16:50
+13812,760750,6,46491023,76,2,4860,81',0,0,Koussay Maacha (Esperance Sportive de Tunis) Substitution at 81',Koussay Maacha Substitution,8377,0.0,0.0,0.0,0.0,0.0,0.0,2,195255,2025-11-30 06:16:50
+13812,760750,7,46491024,76,2,4860,81',0,0,Aboubacar Diakite (Esperance Sportive de Tunis) Substitution at 81',Aboubacar Diakite Substitution,8377,0.0,0.0,0.0,0.0,0.0,0.0,2,362999,2025-11-30 06:16:50
+13812,760750,8,46491072,76,2,5280,88',0,0,Maya (Petro de Luanda) Substitution at 88',Maya Substitution,19436,0.0,0.0,0.0,0.0,0.0,0.0,1,335486,2025-11-30 06:16:50
+13812,760750,8,46491072,76,2,5280,88',0,0,Maya (Petro de Luanda) Substitution at 88',Maya Substitution,19436,0.0,0.0,0.0,0.0,0.0,0.0,2,241696,2025-11-30 06:16:50
+13812,760750,9,46491080,70,2,5340,89',1,0,Aboubacar Diakite (Esperance Sportive de Tunis) Goal at 89',Aboubacar Diakite Goal,8377,0.0,0.0,0.0,0.0,0.0,0.0,1,396763,2025-11-30 06:16:50
+13812,760750,10,46491117,76,2,5400,90'+2',0,0,Khalil Guenichi (Esperance Sportive de Tunis) Substitution at 92',Khalil Guenichi Substitution,8377,0.0,0.0,0.0,0.0,0.0,0.0,1,374258,2025-11-30 06:16:50
+13812,760750,10,46491117,76,2,5400,90'+2',0,0,Khalil Guenichi (Esperance Sportive de Tunis) Substitution at 92',Khalil Guenichi Substitution,8377,0.0,0.0,0.0,0.0,0.0,0.0,2,357303,2025-11-30 06:16:50
+13812,760751,1,46480185,94,1,840,14',0,0,Miguel Reisinho (Mamelodi Sundowns) Yellow Card at 14',Miguel Reisinho Yellow Card,7084,0.0,0.0,0.0,0.0,0.0,0.0,1,290504,2025-11-29 06:15:12
+13812,760751,2,46480334,94,1,1860,31',0,0,Keanu Cupido (Mamelodi Sundowns) Yellow Card at 31',Keanu Cupido Yellow Card,7084,0.0,0.0,0.0,0.0,0.0,0.0,1,228597,2025-11-29 06:15:12
+13812,760751,3,46481092,76,2,3540,59',0,0,Soufiane Bayazid (MC Alger) Substitution at 59',Soufiane Bayazid Substitution,7501,0.0,0.0,0.0,0.0,0.0,0.0,1,357264,2025-11-29 06:15:12
+13812,760751,3,46481092,76,2,3540,59',0,0,Soufiane Bayazid (MC Alger) Substitution at 59',Soufiane Bayazid Substitution,7501,0.0,0.0,0.0,0.0,0.0,0.0,2,407846,2025-11-29 06:15:12
+13812,760751,5,46481392,76,2,4620,77',0,0,Kipre Zunon (MC Alger) Substitution at 77',Kipre Zunon Substitution,7501,0.0,0.0,0.0,0.0,0.0,0.0,1,396832,2025-11-29 06:15:12
+13812,760751,4,46481378,76,2,4620,77',0,0,Amine Messoussa (MC Alger) Substitution at 77',Amine Messoussa Substitution,7501,0.0,0.0,0.0,0.0,0.0,0.0,1,362759,2025-11-29 06:15:12
+13812,760751,4,46481378,76,2,4620,77',0,0,Amine Messoussa (MC Alger) Substitution at 77',Amine Messoussa Substitution,7501,0.0,0.0,0.0,0.0,0.0,0.0,2,201198,2025-11-29 06:15:12
+13812,760751,5,46481392,76,2,4620,77',0,0,Kipre Zunon (MC Alger) Substitution at 77',Kipre Zunon Substitution,7501,0.0,0.0,0.0,0.0,0.0,0.0,2,287079,2025-11-29 06:15:12
+13812,760751,6,46481398,94,2,4680,78',0,0,Oussama Benhaoua (MC Alger) Yellow Card at 78',Oussama Benhaoua Yellow Card,7501,0.0,0.0,0.0,0.0,0.0,0.0,1,396835,2025-11-29 06:15:12
+13812,760751,7,46481474,76,2,5040,84',0,0,Aubrey Modiba (Mamelodi Sundowns) Substitution at 84',Aubrey Modiba Substitution,7084,0.0,0.0,0.0,0.0,0.0,0.0,1,223818,2025-11-29 06:15:12
+13812,760751,8,46481495,76,2,5040,84',0,0,Arthur  (Mamelodi Sundowns) Substitution at 84',Arthur  Substitution,7084,0.0,0.0,0.0,0.0,0.0,0.0,1,399135,2025-11-29 06:15:12
+13812,760751,8,46481495,76,2,5040,84',0,0,Arthur  (Mamelodi Sundowns) Substitution at 84',Arthur  Substitution,7084,0.0,0.0,0.0,0.0,0.0,0.0,1,357988,2025-11-29 06:15:12
+13812,760751,8,46481495,76,2,5040,84',0,0,Arthur  (Mamelodi Sundowns) Substitution at 84',Arthur  Substitution,7084,0.0,0.0,0.0,0.0,0.0,0.0,1,357179,2025-11-29 06:15:12
+13812,760751,8,46481495,76,2,5040,84',0,0,Arthur  (Mamelodi Sundowns) Substitution at 84',Arthur  Substitution,7084,0.0,0.0,0.0,0.0,0.0,0.0,1,335848,2025-11-29 06:15:12
+13812,760751,8,46481495,76,2,5040,84',0,0,Arthur  (Mamelodi Sundowns) Substitution at 84',Arthur  Substitution,7084,0.0,0.0,0.0,0.0,0.0,0.0,1,335159,2025-11-29 06:15:12
+13812,760751,8,46481495,76,2,5040,84',0,0,Arthur  (Mamelodi Sundowns) Substitution at 84',Arthur  Substitution,7084,0.0,0.0,0.0,0.0,0.0,0.0,1,334374,2025-11-29 06:15:12
+13812,760751,8,46481495,76,2,5040,84',0,0,Arthur  (Mamelodi Sundowns) Substitution at 84',Arthur  Substitution,7084,0.0,0.0,0.0,0.0,0.0,0.0,1,315427,2025-11-29 06:15:12
+13812,760751,8,46481495,76,2,5040,84',0,0,Arthur  (Mamelodi Sundowns) Substitution at 84',Arthur  Substitution,7084,0.0,0.0,0.0,0.0,0.0,0.0,1,315286,2025-11-29 06:15:12
+13812,760751,8,46481495,76,2,5040,84',0,0,Arthur  (Mamelodi Sundowns) Substitution at 84',Arthur  Substitution,7084,0.0,0.0,0.0,0.0,0.0,0.0,1,314949,2025-11-29 06:15:12
+13812,760751,8,46481495,76,2,5040,84',0,0,Arthur  (Mamelodi Sundowns) Substitution at 84',Arthur  Substitution,7084,0.0,0.0,0.0,0.0,0.0,0.0,1,314861,2025-11-29 06:15:12
+13812,760751,8,46481495,76,2,5040,84',0,0,Arthur  (Mamelodi Sundowns) Substitution at 84',Arthur  Substitution,7084,0.0,0.0,0.0,0.0,0.0,0.0,1,271057,2025-11-29 06:15:12
+13812,760751,8,46481495,76,2,5040,84',0,0,Arthur  (Mamelodi Sundowns) Substitution at 84',Arthur  Substitution,7084,0.0,0.0,0.0,0.0,0.0,0.0,1,218975,2025-11-29 06:15:12
+13812,760751,8,46481495,76,2,5040,84',0,0,Arthur  (Mamelodi Sundowns) Substitution at 84',Arthur  Substitution,7084,0.0,0.0,0.0,0.0,0.0,0.0,1,216254,2025-11-29 06:15:12
+13812,760751,8,46481495,76,2,5040,84',0,0,Arthur  (Mamelodi Sundowns) Substitution at 84',Arthur  Substitution,7084,0.0,0.0,0.0,0.0,0.0,0.0,1,202594,2025-11-29 06:15:12
+13812,760751,8,46481495,76,2,5040,84',0,0,Arthur  (Mamelodi Sundowns) Substitution at 84',Arthur  Substitution,7084,0.0,0.0,0.0,0.0,0.0,0.0,1,155440,2025-11-29 06:15:12
+13812,760751,7,46481474,76,2,5040,84',0,0,Aubrey Modiba (Mamelodi Sundowns) Substitution at 84',Aubrey Modiba Substitution,7084,0.0,0.0,0.0,0.0,0.0,0.0,2,274421,2025-11-29 06:15:12
+13812,760751,8,46481495,76,2,5040,84',0,0,Arthur  (Mamelodi Sundowns) Substitution at 84',Arthur  Substitution,7084,0.0,0.0,0.0,0.0,0.0,0.0,2,283344,2025-11-29 06:15:12
+13812,760751,9,46481514,76,2,5160,86',0,0,Mohamed Zougrana (MC Alger) Substitution at 86',Mohamed Zougrana Substitution,7501,0.0,0.0,0.0,0.0,0.0,0.0,1,335613,2025-11-29 06:15:12
+13812,760751,10,46481515,76,2,5160,86',0,0,Mohamed Bangoura (MC Alger) Substitution at 86',Mohamed Bangoura Substitution,7501,0.0,0.0,0.0,0.0,0.0,0.0,1,269588,2025-11-29 06:15:12
+13812,760751,9,46481514,76,2,5160,86',0,0,Mohamed Zougrana (MC Alger) Substitution at 86',Mohamed Zougrana Substitution,7501,0.0,0.0,0.0,0.0,0.0,0.0,2,396835,2025-11-29 06:15:12
+13812,760751,10,46481515,76,2,5160,86',0,0,Mohamed Bangoura (MC Alger) Substitution at 86',Mohamed Bangoura Substitution,7501,0.0,0.0,0.0,0.0,0.0,0.0,2,237879,2025-11-29 06:15:12
+13812,760751,11,46481538,76,2,5280,88',0,0,Themba Zwane (Mamelodi Sundowns) Substitution at 88',Themba Zwane Substitution,7084,0.0,0.0,0.0,0.0,0.0,0.0,1,157046,2025-11-29 06:15:12
+13812,760751,11,46481538,76,2,5280,88',0,0,Themba Zwane (Mamelodi Sundowns) Substitution at 88',Themba Zwane Substitution,7084,0.0,0.0,0.0,0.0,0.0,0.0,2,290504,2025-11-29 06:15:12
+13812,760751,13,46481604,76,2,5400,90'+4',0,0,Kegan Johannes (Mamelodi Sundowns) Substitution at 94',Kegan Johannes Substitution,7084,0.0,0.0,0.0,0.0,0.0,0.0,1,313781,2025-11-29 06:15:12
+13812,760751,12,46481589,76,2,5400,90'+3',0,0,Thapelo Maseko (Mamelodi Sundowns) Substitution at 93',Thapelo Maseko Substitution,7084,0.0,0.0,0.0,0.0,0.0,0.0,1,335450,2025-11-29 06:15:12
+13812,760751,13,46481604,76,2,5400,90'+4',0,0,Kegan Johannes (Mamelodi Sundowns) Substitution at 94',Kegan Johannes Substitution,7084,0.0,0.0,0.0,0.0,0.0,0.0,2,228597,2025-11-29 06:15:12
+13812,760751,12,46481589,76,2,5400,90'+3',0,0,Thapelo Maseko (Mamelodi Sundowns) Substitution at 93',Thapelo Maseko Substitution,7084,0.0,0.0,0.0,0.0,0.0,0.0,2,291141,2025-11-29 06:15:12
+13812,760752,2,46479590,76,2,2700,45',0,0,Mohamed Doumbia (Young Africans) Substitution at 45',Mohamed Doumbia Substitution,19223,0.0,0.0,0.0,0.0,0.0,0.0,1,308322,2025-11-29 06:15:12
+13812,760752,1,46479589,76,2,2700,45',0,0,Mostapha Rezkallah Bott (JS Kabylie) Substitution at 45',Mostapha Rezkallah Bott Substitu,7314,0.0,0.0,0.0,0.0,0.0,0.0,1,414866,2025-11-29 06:15:12
+13812,760752,1,46479589,76,2,2700,45',0,0,Mostapha Rezkallah Bott (JS Kabylie) Substitution at 45',Mostapha Rezkallah Bott Substitu,7314,0.0,0.0,0.0,0.0,0.0,0.0,2,184873,2025-11-29 06:15:12
+13812,760752,2,46479590,76,2,2700,45',0,0,Mohamed Doumbia (Young Africans) Substitution at 45',Mohamed Doumbia Substitution,19223,0.0,0.0,0.0,0.0,0.0,0.0,2,187663,2025-11-29 06:15:12
+13812,760752,3,46479598,76,2,3900,65',0,0,Edmund John (Young Africans) Substitution at 65',Edmund John Substitution,19223,0.0,0.0,0.0,0.0,0.0,0.0,1,410099,2025-11-29 06:15:12
+13812,760752,3,46479598,76,2,3900,65',0,0,Edmund John (Young Africans) Substitution at 65',Edmund John Substitution,19223,0.0,0.0,0.0,0.0,0.0,0.0,2,398445,2025-11-29 06:15:12
+13812,760752,4,46479604,94,2,4200,70',0,0,Aymen Mahious (JS Kabylie) Yellow Card at 70',Aymen Mahious Yellow Card,7314,0.0,0.0,0.0,0.0,0.0,0.0,1,276148,2025-11-29 06:15:12
+13812,760752,5,46479605,94,2,4260,71',0,0,Israel Patrick Mwenda (Young Africans) Yellow Card at 71',Israel Patrick Mwenda Yellow Car,19223,0.0,0.0,0.0,0.0,0.0,0.0,1,308620,2025-11-29 06:15:12
+13812,760752,6,46479607,76,2,4320,72',0,0,Billel Messaoudi (JS Kabylie) Substitution at 72',Billel Messaoudi Substitution,7314,0.0,0.0,0.0,0.0,0.0,0.0,1,320416,2025-11-29 06:15:12
+13812,760752,6,46479607,76,2,4320,72',0,0,Billel Messaoudi (JS Kabylie) Substitution at 72',Billel Messaoudi Substitution,7314,0.0,0.0,0.0,0.0,0.0,0.0,2,276148,2025-11-29 06:15:12
+13812,760752,9,46479612,76,2,4680,78',0,0,Lahmriaimen Abdelaziz Lahmri (JS Kabylie) Substitution at 78',Lahmriaimen Abdelaziz Lahmri Sub,7314,0.0,0.0,0.0,0.0,0.0,0.0,1,284757,2025-11-29 06:15:12
+13812,760752,8,46479611,76,2,4680,78',0,0,Issaka Boka (Young Africans) Substitution at 78',Issaka Boka Substitution,19223,0.0,0.0,0.0,0.0,0.0,0.0,1,359113,2025-11-29 06:15:12
+13812,760752,7,46479610,76,2,4680,78',0,0,Aziz Andabwile (Young Africans) Substitution at 78',Aziz Andabwile Substitution,19223,0.0,0.0,0.0,0.0,0.0,0.0,1,338102,2025-11-29 06:15:12
+13812,760752,9,46479612,76,2,4680,78',0,0,Lahmriaimen Abdelaziz Lahmri (JS Kabylie) Substitution at 78',Lahmriaimen Abdelaziz Lahmri Sub,7314,0.0,0.0,0.0,0.0,0.0,0.0,2,282384,2025-11-29 06:15:12
+13812,760752,8,46479611,76,2,4680,78',0,0,Issaka Boka (Young Africans) Substitution at 78',Issaka Boka Substitution,19223,0.0,0.0,0.0,0.0,0.0,0.0,2,282435,2025-11-29 06:15:12
+13812,760752,8,46479611,76,2,4680,78',0,0,Issaka Boka (Young Africans) Substitution at 78',Issaka Boka Substitution,19223,0.0,0.0,0.0,0.0,0.0,0.0,2,230557,2025-11-29 06:15:12
+13812,760752,7,46479610,76,2,4680,78',0,0,Aziz Andabwile (Young Africans) Substitution at 78',Aziz Andabwile Substitution,19223,0.0,0.0,0.0,0.0,0.0,0.0,2,377171,2025-11-29 06:15:12
+13812,760752,10,46479616,94,2,4740,79',0,0,Pacome Zouzoua (Young Africans) Yellow Card at 79',Pacome Zouzoua Yellow Card,19223,0.0,0.0,0.0,0.0,0.0,0.0,1,335617,2025-11-29 06:15:12
+13812,760752,11,46479622,76,2,4920,82',0,0,Oualid Malki (JS Kabylie) Substitution at 82',Oualid Malki Substitution,7314,0.0,0.0,0.0,0.0,0.0,0.0,1,414869,2025-11-29 06:15:12
+13812,760752,11,46479622,76,2,4920,82',0,0,Oualid Malki (JS Kabylie) Substitution at 82',Oualid Malki Substitution,7314,0.0,0.0,0.0,0.0,0.0,0.0,2,111320,2025-11-29 06:15:12
+13812,760752,12,46479628,76,2,5400,90'+1',0,0,Andy Boyeli (Young Africans) Substitution at 91',Andy Boyeli Substitution,19223,0.0,0.0,0.0,0.0,0.0,0.0,1,390441,2025-11-29 06:15:12
+13812,760752,12,46479628,76,2,5400,90'+1',0,0,Andy Boyeli (Young Africans) Substitution at 91',Andy Boyeli Substitution,19223,0.0,0.0,0.0,0.0,0.0,0.0,2,255148,2025-11-29 06:15:12
+13812,760753,1,46500933,70,1,960,16',1,0,Taddeus Nkeng (Stade Malien) Goal at 16',Taddeus Nkeng Goal,22077,0.0,0.0,0.0,0.0,0.0,0.0,1,325118,2025-12-01 06:15:02
+13812,760753,2,46501051,70,1,1380,23',1,0,Ismaila Simpara (Stade Malien) Goal at 23',Ismaila Simpara Goal,22077,0.0,0.0,0.0,0.0,0.0,0.0,1,414858,2025-12-01 06:15:02
+13812,760753,6,46501751,76,2,2700,45',0,0,Morice Abraham (Simba SC) Substitution at 45',Morice Abraham Substitution,19414,0.0,0.0,0.0,0.0,0.0,0.0,1,363564,2025-12-01 06:15:02
+13812,760753,5,46501680,76,2,2700,45',0,0,Jonathan Sowah (Simba SC) Substitution at 45',Jonathan Sowah Substitution,19414,0.0,0.0,0.0,0.0,0.0,0.0,1,370026,2025-12-01 06:15:02
+13812,760753,3,46501676,76,2,2700,45',0,0,Alassane Maodo Kante (Simba SC) Substitution at 45',Alassane Maodo Kante Substitutio,19414,0.0,0.0,0.0,0.0,0.0,0.0,1,321296,2025-12-01 06:15:02
+13812,760753,4,46501679,76,2,2700,45',0,0,Chamou Karaboue (Simba SC) Substitution at 45',Chamou Karaboue Substitution,19414,0.0,0.0,0.0,0.0,0.0,0.0,1,301049,2025-12-01 06:15:02
+13812,760753,6,46501751,76,2,2700,45',0,0,Morice Abraham (Simba SC) Substitution at 45',Morice Abraham Substitution,19414,0.0,0.0,0.0,0.0,0.0,0.0,2,337305,2025-12-01 06:15:02
+13812,760753,4,46501679,76,2,2700,45',0,0,Chamou Karaboue (Simba SC) Substitution at 45',Chamou Karaboue Substitution,19414,0.0,0.0,0.0,0.0,0.0,0.0,2,261010,2025-12-01 06:15:02
+13812,760753,5,46501680,76,2,2700,45',0,0,Jonathan Sowah (Simba SC) Substitution at 45',Jonathan Sowah Substitution,19414,0.0,0.0,0.0,0.0,0.0,0.0,2,401615,2025-12-01 06:15:02
+13812,760753,3,46501676,76,2,2700,45',0,0,Alassane Maodo Kante (Simba SC) Substitution at 45',Alassane Maodo Kante Substitutio,19414,0.0,0.0,0.0,0.0,0.0,0.0,2,396879,2025-12-01 06:15:02
+13812,760753,7,46501694,94,2,2760,46',0,0,Jonathan Sowah (Simba SC) Yellow Card at 46',Jonathan Sowah Yellow Card,19414,0.0,0.0,0.0,0.0,0.0,0.0,1,370026,2025-12-01 06:15:02
+13812,760753,8,46501710,94,2,2820,47',0,0,Moussa Diallo (Stade Malien) Yellow Card at 47',Moussa Diallo Yellow Card,22077,0.0,0.0,0.0,0.0,0.0,0.0,1,240484,2025-12-01 06:15:02
+13812,760753,10,46501857,94,2,3240,54',0,0,Mamdou Traore (Stade Malien) Yellow Card at 54',Mamdou Traore Yellow Card,22077,0.0,0.0,0.0,0.0,0.0,0.0,1,287429,2025-12-01 06:15:02
+13812,760753,9,46501803,70,2,3240,54',1,0,Neo Maema (Simba SC) Goal at 54',Neo Maema Goal,19414,0.0,0.0,0.0,0.0,0.0,0.0,1,269346,2025-12-01 06:15:02
+13812,760753,11,46501836,76,2,3480,58',0,0,Haman Mandjan (Stade Malien) Substitution at 58',Haman Mandjan Substitution,22077,0.0,0.0,0.0,0.0,0.0,0.0,1,396909,2025-12-01 06:15:02
+13812,760753,11,46501836,76,2,3480,58',0,0,Haman Mandjan (Stade Malien) Substitution at 58',Haman Mandjan Substitution,22077,0.0,0.0,0.0,0.0,0.0,0.0,2,414857,2025-12-01 06:15:02
+13812,760753,11,46501836,76,2,3480,58',0,0,Haman Mandjan (Stade Malien) Substitution at 58',Haman Mandjan Substitution,22077,0.0,0.0,0.0,0.0,0.0,0.0,2,332290,2025-12-01 06:15:02
+13812,760753,11,46501836,76,2,3480,58',0,0,Haman Mandjan (Stade Malien) Substitution at 58',Haman Mandjan Substitution,22077,0.0,0.0,0.0,0.0,0.0,0.0,2,285847,2025-12-01 06:15:02
+13812,760753,12,46501847,94,2,3600,60',0,0,Yakoub Suleiman (Simba SC) Yellow Card at 60',Yakoub Suleiman Yellow Card,19414,0.0,0.0,0.0,0.0,0.0,0.0,1,401616,2025-12-01 06:15:02
+13812,760753,13,46501864,174,2,3720,62',0,0,Taddeus Nkeng (Stade Malien) Penalty - Saved at 62',Taddeus Nkeng Penalty - Saved,22077,0.0,0.0,0.0,0.0,0.0,0.0,1,325118,2025-12-01 06:15:02
+13812,760753,14,46501888,76,2,3840,64',0,0,Steven Mukwala (Simba SC) Substitution at 64',Steven Mukwala Substitution,19414,0.0,0.0,0.0,0.0,0.0,0.0,1,320061,2025-12-01 06:15:02
+13812,760753,14,46501888,76,2,3840,64',0,0,Steven Mukwala (Simba SC) Substitution at 64',Steven Mukwala Substitution,19414,0.0,0.0,0.0,0.0,0.0,0.0,2,269346,2025-12-01 06:15:02
+13812,760753,15,46502110,76,2,4500,75',0,0,Samba Konare (Stade Malien) Substitution at 75',Samba Konare Substitution,22077,0.0,0.0,0.0,0.0,0.0,0.0,1,413932,2025-12-01 06:15:02
+13812,760753,16,46502111,76,2,4500,75',0,0,Lassine Bagayoko (Stade Malien) Substitution at 75',Lassine Bagayoko Substitution,22077,0.0,0.0,0.0,0.0,0.0,0.0,1,414859,2025-12-01 06:15:02
+13812,760753,16,46502111,76,2,4500,75',0,0,Lassine Bagayoko (Stade Malien) Substitution at 75',Lassine Bagayoko Substitution,22077,0.0,0.0,0.0,0.0,0.0,0.0,2,287429,2025-12-01 06:15:02
+13812,760753,15,46502110,76,2,4500,75',0,0,Samba Konare (Stade Malien) Substitution at 75',Samba Konare Substitution,22077,0.0,0.0,0.0,0.0,0.0,0.0,2,240484,2025-12-01 06:15:02
+13812,760753,17,46502191,76,2,4740,79',0,0,Zoumana Simpara (Stade Malien) Substitution at 79',Zoumana Simpara Substitution,22077,0.0,0.0,0.0,0.0,0.0,0.0,1,228552,2025-12-01 06:15:02
+13812,760753,17,46502191,76,2,4740,79',0,0,Zoumana Simpara (Stade Malien) Substitution at 79',Zoumana Simpara Substitution,22077,0.0,0.0,0.0,0.0,0.0,0.0,2,325118,2025-12-01 06:15:02
+13812,760753,18,46502280,93,2,4920,82',0,0,Alassane Maodo Kante (Simba SC) Red Card at 82',Alassane Maodo Kante Red Card,19414,0.0,0.0,0.0,0.0,0.0,0.0,1,321296,2025-12-01 06:15:02
+13812,760753,19,46502427,94,2,5400,90',0,0,Naby Camara (Simba SC) Yellow Card at 90',Naby Camara Yellow Card,19414,0.0,0.0,0.0,0.0,0.0,0.0,1,312846,2025-12-01 06:15:02
+13812,760754,1,46480088,94,1,420,7',0,0,Zizo  (Al Ahly) Yellow Card at 7',Zizo  Yellow Card,10207,0.0,0.0,0.0,0.0,0.0,0.0,1,195154,2025-11-29 06:15:12
+13812,760754,2,46480387,70,1,2220,37',1,0,Mohcine Bouriga (FAR Rabat) Goal at 37',Mohcine Bouriga Goal,21801,0.0,0.0,0.0,0.0,0.0,0.0,1,391669,2025-11-29 06:15:12
+13812,760754,3,46480423,174,1,2220,37',0,0,Mohamed Hrimat (FAR Rabat) Penalty - Saved at 37',Mohamed Hrimat Penalty - Saved,21801,0.0,0.0,0.0,0.0,0.0,0.0,1,359027,2025-11-29 06:15:12
+13812,760754,4,46480982,94,2,3120,52',0,0,Fallou Mendy (FAR Rabat) Yellow Card at 52',Fallou Mendy Yellow Card,21801,0.0,0.0,0.0,0.0,0.0,0.0,1,402509,2025-11-29 06:15:12
+13812,760754,5,46481093,76,2,3480,58',0,0,Taher Mohamed (Al Ahly) Substitution at 58',Taher Mohamed Substitution,10207,0.0,0.0,0.0,0.0,0.0,0.0,1,245246,2025-11-29 06:15:12
+13812,760754,5,46481093,76,2,3480,58',0,0,Taher Mohamed (Al Ahly) Substitution at 58',Taher Mohamed Substitution,10207,0.0,0.0,0.0,0.0,0.0,0.0,2,404311,2025-11-29 06:15:12
+13812,760754,5,46481093,76,2,3480,58',0,0,Taher Mohamed (Al Ahly) Substitution at 58',Taher Mohamed Substitution,10207,0.0,0.0,0.0,0.0,0.0,0.0,2,187549,2025-11-29 06:15:12
+13812,760754,6,46481126,76,2,3540,59',0,0,Khalid Ait Ouarkhane (FAR Rabat) Substitution at 59',Khalid Ait Ouarkhane Substitutio,21801,0.0,0.0,0.0,0.0,0.0,0.0,1,396856,2025-11-29 06:15:12
+13812,760754,6,46481126,76,2,3540,59',0,0,Khalid Ait Ouarkhane (FAR Rabat) Substitution at 59',Khalid Ait Ouarkhane Substitutio,21801,0.0,0.0,0.0,0.0,0.0,0.0,2,391669,2025-11-29 06:15:12
+13812,760754,8,46481270,76,2,4020,67',0,0,Mohamed Shokry (Al Ahly) Substitution at 67',Mohamed Shokry Substitution,10207,0.0,0.0,0.0,0.0,0.0,0.0,1,308916,2025-11-29 06:15:12
+13812,760754,7,46481254,76,2,4020,67',0,0,Mohamed Ali Ben Romdhane (Al Ahly) Substitution at 67',Mohamed Ali Ben Romdhane Substit,10207,0.0,0.0,0.0,0.0,0.0,0.0,1,283953,2025-11-29 06:15:12
+13812,760754,7,46481254,76,2,4020,67',0,0,Mohamed Ali Ben Romdhane (Al Ahly) Substitution at 67',Mohamed Ali Ben Romdhane Substit,10207,0.0,0.0,0.0,0.0,0.0,0.0,2,232803,2025-11-29 06:15:12
+13812,760754,8,46481270,76,2,4020,67',0,0,Mohamed Shokry (Al Ahly) Substitution at 67',Mohamed Shokry Substitution,10207,0.0,0.0,0.0,0.0,0.0,0.0,2,312563,2025-11-29 06:15:12
+13812,760754,9,46481271,70,2,4080,68',1,0,Trézéguet  (Al Ahly) Goal at 68',Trézéguet  Goal,10207,0.0,0.0,0.0,0.0,0.0,0.0,1,157825,2025-11-29 06:15:12
+13812,760754,10,46481451,76,2,4860,81',0,0,Reda Slim (FAR Rabat) Substitution at 81',Reda Slim Substitution,21801,0.0,0.0,0.0,0.0,0.0,0.0,1,313074,2025-11-29 06:15:12
+13812,760754,11,46481452,76,2,4860,81',0,0,Emam Ashour (Al Ahly) Substitution at 81',Emam Ashour Substitution,10207,0.0,0.0,0.0,0.0,0.0,0.0,1,299365,2025-11-29 06:15:12
+13812,760754,12,46481453,76,2,4860,81',0,0,Jamal Ech-Chammakh (FAR Rabat) Substitution at 81',Jamal Ech-Chammakh Substitution,21801,0.0,0.0,0.0,0.0,0.0,0.0,1,299686,2025-11-29 06:15:12
+13812,760754,11,46481452,76,2,4860,81',0,0,Emam Ashour (Al Ahly) Substitution at 81',Emam Ashour Substitution,10207,0.0,0.0,0.0,0.0,0.0,0.0,2,265163,2025-11-29 06:15:12
+13812,760754,10,46481451,76,2,4860,81',0,0,Reda Slim (FAR Rabat) Substitution at 81',Reda Slim Substitution,21801,0.0,0.0,0.0,0.0,0.0,0.0,2,269565,2025-11-29 06:15:12
+13812,760754,12,46481453,76,2,4860,81',0,0,Jamal Ech-Chammakh (FAR Rabat) Substitution at 81',Jamal Ech-Chammakh Substitution,21801,0.0,0.0,0.0,0.0,0.0,0.0,2,263368,2025-11-29 06:15:12
+13812,760754,13,46481679,94,2,5400,90'+6',0,0,Marwan Louadni (FAR Rabat) Yellow Card at 96',Marwan Louadni Yellow Card,21801,0.0,0.0,0.0,0.0,0.0,0.0,1,265282,2025-11-29 06:15:12
+13812,760755,1,46498320,70,1,720,12',1,0,Abdel Raouf (Al Hilal Omdurman) Goal at 12',Abdel Raouf Goal,18832,0.0,0.0,0.0,0.0,0.0,0.0,1,302070,2025-12-01 06:15:02
+13812,760755,2,46498552,94,1,2520,42',0,0,Issama Mpeko (FC Saint Eloi Lupopo) Yellow Card at 42',Issama Mpeko Yellow Card,21805,0.0,0.0,0.0,0.0,0.0,0.0,1,173986,2025-12-01 06:15:02
+13812,760755,3,46498931,76,2,2700,45',0,0,Abdoul-Latif Goumey (FC Saint Eloi Lupopo) Substitution at 45',Abdoul-Latif Goumey Substitution,21805,0.0,0.0,0.0,0.0,0.0,0.0,1,396078,2025-12-01 06:15:02
+13812,760755,5,46498965,76,2,2700,45',0,0,Enoch Molia (FC Saint Eloi Lupopo) Substitution at 45',Enoch Molia Substitution,21805,0.0,0.0,0.0,0.0,0.0,0.0,1,414837,2025-12-01 06:15:02
+13812,760755,4,46498950,76,2,2700,45',0,0,Michael Kimputu (FC Saint Eloi Lupopo) Substitution at 45',Michael Kimputu Substitution,21805,0.0,0.0,0.0,0.0,0.0,0.0,1,414840,2025-12-01 06:15:02
+13812,760755,5,46498965,76,2,2700,45',0,0,Enoch Molia (FC Saint Eloi Lupopo) Substitution at 45',Enoch Molia Substitution,21805,0.0,0.0,0.0,0.0,0.0,0.0,2,414835,2025-12-01 06:15:02
+13812,760755,3,46498931,76,2,2700,45',0,0,Abdoul-Latif Goumey (FC Saint Eloi Lupopo) Substitution at 45',Abdoul-Latif Goumey Substitution,21805,0.0,0.0,0.0,0.0,0.0,0.0,2,396806,2025-12-01 06:15:02
+13812,760755,4,46498950,76,2,2700,45',0,0,Michael Kimputu (FC Saint Eloi Lupopo) Substitution at 45',Michael Kimputu Substitution,21805,0.0,0.0,0.0,0.0,0.0,0.0,2,255202,2025-12-01 06:15:02
+13812,760755,6,46498985,94,2,2820,47',0,0,Enoch Molia (FC Saint Eloi Lupopo) Yellow Card at 47',Enoch Molia Yellow Card,21805,0.0,0.0,0.0,0.0,0.0,0.0,1,414837,2025-12-01 06:15:02
+13812,760755,7,46499232,76,2,3720,62',0,0,Junior Mavungu (FC Saint Eloi Lupopo) Substitution at 62',Junior Mavungu Substitution,21805,0.0,0.0,0.0,0.0,0.0,0.0,1,407802,2025-12-01 06:15:02
+13812,760755,7,46499232,76,2,3720,62',0,0,Junior Mavungu (FC Saint Eloi Lupopo) Substitution at 62',Junior Mavungu Substitution,21805,0.0,0.0,0.0,0.0,0.0,0.0,2,414836,2025-12-01 06:15:02
+13812,760755,8,46499249,76,2,3900,65',0,0,Aprocius Petrus (Al Hilal Omdurman) Substitution at 65',Aprocius Petrus Substitution,18832,0.0,0.0,0.0,0.0,0.0,0.0,1,272645,2025-12-01 06:15:02
+13812,760755,8,46499249,76,2,3900,65',0,0,Aprocius Petrus (Al Hilal Omdurman) Substitution at 65',Aprocius Petrus Substitution,18832,0.0,0.0,0.0,0.0,0.0,0.0,2,281825,2025-12-01 06:15:02
+13812,760755,8,46499249,76,2,3900,65',0,0,Aprocius Petrus (Al Hilal Omdurman) Substitution at 65',Aprocius Petrus Substitution,18832,0.0,0.0,0.0,0.0,0.0,0.0,2,219604,2025-12-01 06:15:02
+13812,760755,9,46499434,76,2,4500,75',0,0,Jean Benoît Tukumbane (FC Saint Eloi Lupopo) Substitution at 75',Jean Benoît Tukumbane Substituti,21805,0.0,0.0,0.0,0.0,0.0,0.0,1,407807,2025-12-01 06:15:02
+13812,760755,9,46499434,76,2,4500,75',0,0,Jean Benoît Tukumbane (FC Saint Eloi Lupopo) Substitution at 75',Jean Benoît Tukumbane Substituti,21805,0.0,0.0,0.0,0.0,0.0,0.0,2,414843,2025-12-01 06:15:02
+13812,760755,10,46499499,70,2,4740,79',1,0,Ramos Kashala Wanet (FC Saint Eloi Lupopo) Goal at 79',Ramos Kashala Wanet Goal,21805,0.0,0.0,0.0,0.0,0.0,0.0,1,414842,2025-12-01 06:15:02
+13812,760755,11,46499560,76,2,4920,82',0,0,Ahmed M'Bareck (Al Hilal Omdurman) Substitution at 82',Ahmed M'Bareck Substitution,18832,0.0,0.0,0.0,0.0,0.0,0.0,1,402712,2025-12-01 06:15:02
+13812,760755,11,46499560,76,2,4920,82',0,0,Ahmed M'Bareck (Al Hilal Omdurman) Substitution at 82',Ahmed M'Bareck Substitution,18832,0.0,0.0,0.0,0.0,0.0,0.0,2,292377,2025-12-01 06:15:02
+13812,760755,12,46499709,94,2,5340,89',0,0,Mustafa Karshoum (Al Hilal Omdurman) Yellow Card at 89',Mustafa Karshoum Yellow Card,18832,0.0,0.0,0.0,0.0,0.0,0.0,1,292380,2025-12-01 06:15:02
+13812,760755,13,46499762,94,2,5400,90'+4',0,0,Mika Miché (FC Saint Eloi Lupopo) Yellow Card at 94',Mika Miché Yellow Card,21805,0.0,0.0,0.0,0.0,0.0,0.0,1,407794,2025-12-01 06:15:02
+13812,760756,1,46479581,97,1,2220,37',1,0,Mamadou Lamine Camara (RSB Berkane) Own Goal at 37',Mamadou Lamine Camara Own Goal,17795,0.0,0.0,0.0,0.0,0.0,0.0,1,335702,2025-11-29 06:15:12
+13812,760756,2,46479587,76,2,2700,45',0,0,Zinédine Machach (RSB Berkane) Substitution at 45',Zinédine Machach Substitution,19221,0.0,0.0,0.0,0.0,0.0,0.0,1,219378,2025-11-29 06:15:12
+13812,760756,3,46479588,76,2,2700,45',0,0,Imad Riahi (RSB Berkane) Substitution at 45',Imad Riahi Substitution,19221,0.0,0.0,0.0,0.0,0.0,0.0,1,397053,2025-11-29 06:15:12
+13812,760756,2,46479587,76,2,2700,45',0,0,Zinédine Machach (RSB Berkane) Substitution at 45',Zinédine Machach Substitution,19221,0.0,0.0,0.0,0.0,0.0,0.0,2,414533,2025-11-29 06:15:12
+13812,760756,3,46479588,76,2,2700,45',0,0,Imad Riahi (RSB Berkane) Substitution at 45',Imad Riahi Substitution,19221,0.0,0.0,0.0,0.0,0.0,0.0,2,232208,2025-11-29 06:15:12
+13812,760756,4,46479591,76,2,3360,56',0,0,Wisdom Samuel (Rivers United FC) Substitution at 56',Wisdom Samuel Substitution,17795,0.0,0.0,0.0,0.0,0.0,0.0,1,414888,2025-11-29 06:15:12
+13812,760756,5,46479593,76,2,3360,56',0,0,Taofeek Otaniyi (Rivers United FC) Substitution at 56',Taofeek Otaniyi Substitution,17795,0.0,0.0,0.0,0.0,0.0,0.0,1,408171,2025-11-29 06:15:12
+13812,760756,5,46479593,76,2,3360,56',0,0,Taofeek Otaniyi (Rivers United FC) Substitution at 56',Taofeek Otaniyi Substitution,17795,0.0,0.0,0.0,0.0,0.0,0.0,2,299675,2025-11-29 06:15:12
+13812,760756,4,46479591,76,2,3360,56',0,0,Wisdom Samuel (Rivers United FC) Substitution at 56',Wisdom Samuel Substitution,17795,0.0,0.0,0.0,0.0,0.0,0.0,2,272755,2025-11-29 06:15:12
+13812,760756,6,46479597,76,2,4020,67',0,0,Oussama Lamlaoui (RSB Berkane) Substitution at 67',Oussama Lamlaoui Substitution,19221,0.0,0.0,0.0,0.0,0.0,0.0,1,377525,2025-11-29 06:15:12
+13812,760756,6,46479597,76,2,4020,67',0,0,Oussama Lamlaoui (RSB Berkane) Substitution at 67',Oussama Lamlaoui Substitution,19221,0.0,0.0,0.0,0.0,0.0,0.0,2,313848,2025-11-29 06:15:12
+13812,760756,7,46479600,76,2,4320,72',0,0,David Sholumade (Rivers United FC) Substitution at 72',David Sholumade Substitution,17795,0.0,0.0,0.0,0.0,0.0,0.0,1,414875,2025-11-29 06:15:12
+13812,760756,8,46479601,76,2,4320,72',0,0,Seyi Oguntayo (Rivers United FC) Substitution at 72',Seyi Oguntayo Substitution,17795,0.0,0.0,0.0,0.0,0.0,0.0,1,414886,2025-11-29 06:15:12
+13812,760756,8,46479601,76,2,4320,72',0,0,Seyi Oguntayo (Rivers United FC) Substitution at 72',Seyi Oguntayo Substitution,17795,0.0,0.0,0.0,0.0,0.0,0.0,2,414876,2025-11-29 06:15:12
+13812,760756,7,46479600,76,2,4320,72',0,0,David Sholumade (Rivers United FC) Substitution at 72',David Sholumade Substitution,17795,0.0,0.0,0.0,0.0,0.0,0.0,2,414883,2025-11-29 06:15:12
+13812,760756,9,46479602,94,2,4380,73',0,0,David Sholumade (Rivers United FC) Yellow Card at 73',David Sholumade Yellow Card,17795,0.0,0.0,0.0,0.0,0.0,0.0,1,414875,2025-11-29 06:15:12
+13812,760756,10,46479609,94,2,4800,80',0,0,Abdelhak Assal (RSB Berkane) Yellow Card at 80',Abdelhak Assal Yellow Card,19221,0.0,0.0,0.0,0.0,0.0,0.0,1,377517,2025-11-29 06:15:12
+13812,760756,12,46479618,76,2,5040,84',0,0,Youness El Kaabi (RSB Berkane) Substitution at 84',Youness El Kaabi Substitution,19221,0.0,0.0,0.0,0.0,0.0,0.0,1,408158,2025-11-29 06:15:12
+13812,760756,11,46479617,76,2,5040,84',0,0,Ettayb Boukhriss (RSB Berkane) Substitution at 84',Ettayb Boukhriss Substitution,19221,0.0,0.0,0.0,0.0,0.0,0.0,1,396862,2025-11-29 06:15:12
+13812,760756,11,46479617,76,2,5040,84',0,0,Ettayb Boukhriss (RSB Berkane) Substitution at 84',Ettayb Boukhriss Substitution,19221,0.0,0.0,0.0,0.0,0.0,0.0,2,285653,2025-11-29 06:15:12
+13812,760756,12,46479618,76,2,5040,84',0,0,Youness El Kaabi (RSB Berkane) Substitution at 84',Youness El Kaabi Substitution,19221,0.0,0.0,0.0,0.0,0.0,0.0,2,385054,2025-11-29 06:15:12
+13812,760756,13,46479619,76,2,5100,85',0,0,Osimaga Duke (Rivers United FC) Substitution at 85',Osimaga Duke Substitution,17795,0.0,0.0,0.0,0.0,0.0,0.0,1,414881,2025-11-29 06:15:12
+13812,760756,13,46479619,76,2,5100,85',0,0,Osimaga Duke (Rivers United FC) Substitution at 85',Osimaga Duke Substitution,17795,0.0,0.0,0.0,0.0,0.0,0.0,2,414887,2025-11-29 06:15:12
+13812,760756,15,46479627,70,2,5400,90'+7',1,0,Youness El Kaabi (RSB Berkane) Goal at 97',Youness El Kaabi Goal,19221,0.0,0.0,0.0,0.0,0.0,0.0,1,408158,2025-11-29 06:15:12
+13812,760756,14,46479626,94,2,5400,90'+6',0,0,Bello Martins (Rivers United FC) Yellow Card at 96',Bello Martins Yellow Card,17795,0.0,0.0,0.0,0.0,0.0,0.0,1,341454,2025-11-29 06:15:12
+13812,760756,16,46479629,70,2,5400,90'+8',1,0,Mounir Chouiar (RSB Berkane) Goal at 98',Mounir Chouiar Goal,19221,0.0,0.0,0.0,0.0,0.0,0.0,1,240368,2025-11-29 06:15:12
+13812,760757,1,46489339,76,1,2220,37',0,0,Mahmoud Gad (Pyramids FC) Substitution at 37',Mahmoud Gad Substitution,20220,0.0,0.0,0.0,0.0,0.0,0.0,1,321073,2025-11-30 06:16:50
+13812,760757,1,46489339,76,1,2220,37',0,0,Mahmoud Gad (Pyramids FC) Substitution at 37',Mahmoud Gad Substitution,20220,0.0,0.0,0.0,0.0,0.0,0.0,2,201117,2025-11-30 06:16:50
+13812,760757,2,46489550,94,1,2460,41',0,0,Frederick Mulambia (Power Dynamos) Yellow Card at 41',Frederick Mulambia Yellow Card,8054,0.0,0.0,0.0,0.0,0.0,0.0,1,363281,2025-11-30 06:16:50
+13812,760757,3,46490399,76,2,2700,45',0,0,Ronel Manyanga (Power Dynamos) Substitution at 45',Ronel Manyanga Substitution,8054,0.0,0.0,0.0,0.0,0.0,0.0,1,414850,2025-11-30 06:16:50
+13812,760757,3,46490399,76,2,2700,45',0,0,Ronel Manyanga (Power Dynamos) Substitution at 45',Ronel Manyanga Substitution,8054,0.0,0.0,0.0,0.0,0.0,0.0,2,414847,2025-11-30 06:16:50
+13812,760757,4,46490490,70,2,3060,51',1,0,Mohamed Reda (Pyramids FC) Goal at 51',Mohamed Reda Goal,20220,0.0,0.0,0.0,0.0,0.0,0.0,1,356193,2025-11-30 06:16:50
+13812,760757,4,46490490,70,2,3060,51',1,0,Mohamed Reda (Pyramids FC) Goal at 51',Mohamed Reda Goal,20220,0.0,0.0,0.0,0.0,0.0,0.0,1,169666,2025-11-30 06:16:50
+13812,760757,5,46490642,76,2,3660,61',0,0,Moses Shummah (Power Dynamos) Substitution at 61',Moses Shummah Substitution,8054,0.0,0.0,0.0,0.0,0.0,0.0,1,363368,2025-11-30 06:16:50
+13812,760757,5,46490642,76,2,3660,61',0,0,Moses Shummah (Power Dynamos) Substitution at 61',Moses Shummah Substitution,8054,0.0,0.0,0.0,0.0,0.0,0.0,2,254166,2025-11-30 06:16:50
+13812,760757,6,46490733,76,2,4080,68',0,0,Ahmed Tawfik (Pyramids FC) Substitution at 68',Ahmed Tawfik Substitution,20220,0.0,0.0,0.0,0.0,0.0,0.0,1,163195,2025-11-30 06:16:50
+13812,760757,6,46490733,76,2,4080,68',0,0,Ahmed Tawfik (Pyramids FC) Substitution at 68',Ahmed Tawfik Substitution,20220,0.0,0.0,0.0,0.0,0.0,0.0,2,356193,2025-11-30 06:16:50
+13812,760757,6,46490733,76,2,4080,68',0,0,Ahmed Tawfik (Pyramids FC) Substitution at 68',Ahmed Tawfik Substitution,20220,0.0,0.0,0.0,0.0,0.0,0.0,2,169666,2025-11-30 06:16:50
+13812,760757,8,46490909,94,2,4380,73',0,0,Mahmoud Zalaka (Pyramids FC) Yellow Card at 73',Mahmoud Zalaka Yellow Card,20220,0.0,0.0,0.0,0.0,0.0,0.0,1,379883,2025-11-30 06:16:50
+13812,760757,7,46490823,76,2,4380,73',0,0,Kapembwa Musonda (Power Dynamos) Substitution at 73',Kapembwa Musonda Substitution,8054,0.0,0.0,0.0,0.0,0.0,0.0,1,414852,2025-11-30 06:16:50
+13812,760757,7,46490823,76,2,4380,73',0,0,Kapembwa Musonda (Power Dynamos) Substitution at 73',Kapembwa Musonda Substitution,8054,0.0,0.0,0.0,0.0,0.0,0.0,2,363281,2025-11-30 06:16:50
+13812,760757,9,46490929,76,2,4740,79',0,0,Brian Masanyinga (Power Dynamos) Substitution at 79',Brian Masanyinga Substitution,8054,0.0,0.0,0.0,0.0,0.0,0.0,1,414846,2025-11-30 06:16:50
+13812,760757,9,46490929,76,2,4740,79',0,0,Brian Masanyinga (Power Dynamos) Substitution at 79',Brian Masanyinga Substitution,8054,0.0,0.0,0.0,0.0,0.0,0.0,2,315846,2025-11-30 06:16:50
+13812,760757,10,46491034,94,2,5040,84',0,0,Mahmoud Gad (Pyramids FC) Yellow Card at 84',Mahmoud Gad Yellow Card,20220,0.0,0.0,0.0,0.0,0.0,0.0,1,321073,2025-11-30 06:16:50
+13812,760757,12,46491088,76,2,5280,88',0,0,Ali Gabr (Pyramids FC) Substitution at 88',Ali Gabr Substitution,20220,0.0,0.0,0.0,0.0,0.0,0.0,1,205214,2025-11-30 06:16:50
+13812,760757,11,46491086,94,2,5280,88',0,0,Karim Hafez (Pyramids FC) Yellow Card at 88',Karim Hafez Yellow Card,20220,0.0,0.0,0.0,0.0,0.0,0.0,1,216119,2025-11-30 06:16:50
+13812,760757,12,46491088,76,2,5280,88',0,0,Ali Gabr (Pyramids FC) Substitution at 88',Ali Gabr Substitution,20220,0.0,0.0,0.0,0.0,0.0,0.0,2,379883,2025-11-30 06:16:50
+13812,760757,14,46491108,76,2,5340,89',0,0,Marwan Hamdy (Pyramids FC) Substitution at 89',Marwan Hamdy Substitution,20220,0.0,0.0,0.0,0.0,0.0,0.0,1,298672,2025-11-30 06:16:50
+13812,760757,13,46491087,76,2,5340,89',0,0,Mostafa Zico (Pyramids FC) Substitution at 89',Mostafa Zico Substitution,20220,0.0,0.0,0.0,0.0,0.0,0.0,1,378495,2025-11-30 06:16:50
+13812,760757,13,46491087,76,2,5340,89',0,0,Mostafa Zico (Pyramids FC) Substitution at 89',Mostafa Zico Substitution,20220,0.0,0.0,0.0,0.0,0.0,0.0,2,290626,2025-11-30 06:16:50
+13812,760757,14,46491108,76,2,5340,89',0,0,Marwan Hamdy (Pyramids FC) Substitution at 89',Marwan Hamdy Substitution,20220,0.0,0.0,0.0,0.0,0.0,0.0,2,299324,2025-11-30 06:16:50
