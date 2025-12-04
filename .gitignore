@@ -1,11 +1,37 @@
-# Python
+# --- Python ---
 __pycache__/
 *.py[cod]
 *$py.class
 
-# VS Code
-.vscode/
-
-# Ambientes virtuais
+# --- Ambientes Virtuais ---
 venv/
 env/
+.env
+
+# --- IDEs ---
+.vscode/
+.idea/
+
+# --- Jupyter Notebooks ---
+.ipynb_checkpoints
+
+# --- Dados (MUITO IMPORTANTE) ---
+# Ignora a pasta de dados inteira para não subir CSVs pesados
+data/
+# Garante que nenhum csv solto seja enviado
+*.csv
+
+# --- Logs ---
+logs/
+*.log
+
+# --- Modelos e Artefatos Gerados ---
+# Geralmente não se versiona binários/modelos pesados, a menos que seja o final
+models/*.pkl
+# Se quiser versionar o json do modelo, comente a linha abaixo com #
+models/*.json
+models/*.png
+
+# --- Sistema Operacional ---
+.DS_Store
+Thumbs.db

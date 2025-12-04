@@ -7,7 +7,7 @@ import logging
 import pandas as pd
 import numpy as np
 from datetime import datetime
-from config import LOG_FILE, LOG_FORMAT, LOG_LEVEL, LBS_TO_KG, FEET_TO_METERS, INCHES_TO_METERS, FORM_POINTS
+from .config import LOG_FILE, LOG_FORMAT, LOG_LEVEL, LBS_TO_KG, FEET_TO_METERS, INCHES_TO_METERS, FORM_POINTS
 
 # ========== CONFIGURAÇÃO DE LOGGING ==========
 
@@ -319,7 +319,7 @@ def reduce_mem_usage(df, verbose=True):
     Args:
         df: DataFrame a otimizar
         verbose: Se True, loga informações
-    
+    a
     Returns:
         DataFrame otimizado
     """
