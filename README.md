@@ -1,410 +1,366 @@
-# ⚽ Sistema de Predição de Resultados de Futebol
+# ⚽ Soccer Match Prediction System
 
-Sistema intermediário de Machine Learning para prever resultados de partidas de futebol (Vitória Casa / Empate / Vitória Visitante) usando Random Forest e Feature Engineering avançado.
-
----
+Sistema completo de Machine Learning para predição de resultados de partidas de futebol usando XGBoost.
 
 ## 📋 Índice
 
-1. [Sobre o Projeto](#sobre-o-projeto)
-2. [Instalação](#instalação)
-3. [Estrutura dos Arquivos](#estrutura-dos-arquivos)
-4. [Como Usar](#como-usar)
-5. [Features do Modelo](#features-do-modelo)
-6. [Resultados Esperados](#resultados-esperados)
-7. [Exemplos](#exemplos)
+- [Visão Geral](#-visão-geral)
+- [Estrutura do Projeto](#-estrutura-do-projeto)
+- [Instalação](#-instalação)
+- [Como Usar](#-como-usar)
+- [Pipeline de Dados](#-pipeline-de-dados)
+- [Features Criadas](#-features-criadas)
+- [Modelo](#-modelo)
+- [Resultados](#-resultados)
+- [Troubleshooting](#-troubleshooting)
 
----
+## 🎯 Visão Geral
 
-## 🎯 Sobre o Projeto
+Este projeto implementa um sistema de predição de resultados de partidas de futebol (Vitória Casa, Empate, Vitória Visitante) utilizando:
 
-Este sistema utiliza dados históricos de mais de 30.000 partidas de futebol da temporada 2024-2025 para prever o resultado de futuras partidas.
+- **Dados**: 30.000+ partidas de 400+ ligas da temporada 2024-2025
+- **Fonte**: ESPN Soccer Data API
+- **Modelo**: XGBoost Classifier
+- **Features**: 30+ variáveis preditivas (forma recente, performance, estatísticas de jogo, escalação)
 
-### Características:
+### Principais Características
 
-- **Target**: 3 classes (Home Win / Draw / Away Win)
-- **Algoritmo**: Random Forest com 200 árvores
-- **Features**: 40+ features engineered
-- **Validação**: Time Series Split (validação temporal)
-- **Acurácia esperada**: 50-55% (melhor que baseline ~33%)
+✅ Pipeline completo e automatizado de ML  
+✅ Feature Engineering avançado  
+✅ Validação cruzada estratificada  
+✅ Normalização de features  
+✅ Explicabilidade das predições  
+✅ Interface de linha de comando intuitiva  
 
----
+## 📁 Estrutura do Projeto
 
-## 🔧 Instalação
+```
+S.I-1-Projeto-Final/
+│
+├── data/                          # Dados brutos
+│   ├── base_data/                 # Dados principais
+│   │   ├── fixtures.csv           # Partidas
+│   │   ├── standings.csv          # Classificações
+│   │   ├── teamStats.csv          # Estatísticas dos times
+│   │   ├── players.csv            # Jogadores
+│   │   └── ...
+│   ├── lineup_data/               # Escalações
+│   ├── playerStats_data/          # Estatísticas de jogadores
+│   └── ...
+│
+├── src/                           # Código-fonte
+│   ├── config.py                  # Configurações
+│   ├── utils.py                   # Funções auxiliares
+│   ├── etl.py                     # ETL
+│   ├── feature_engineering.py     # Criação de features
+│   ├── model_xgboost.py          # Treinamento
+│   └── predict.py                 # Predições
+│
+├── models/                        # Modelos treinados
+│   ├── best_model.json           # Modelo XGBoost
+│   ├── scaler.pkl                # Normalizador
+│   └── feature_columns.json      # Features usadas
+│
+├── logs/                          # Logs de execução
+│   └── training_log.txt
+│
+├── notebooks/                     # Análises exploratórias
+│   ├── EDA.ipynb
+│   └── Debug_Features.ipynb
+│
+├── main.py                        # Pipeline principal
+└── README.md                      # Este arquivo
+```
 
-### 1. Pré-requisitos
+## 🚀 Instalação
+
+### Requisitos
+
+- Python 3.8+
+- pip
+
+### Dependências
 
 ```bash
-Python 3.8+
+pip install pandas numpy xgboost scikit-learn
 ```
 
-### 2. Instalar dependências
+Ou crie um arquivo `requirements.txt`:
+
+```
+pandas>=1.5.0
+numpy>=1.23.0
+xgboost>=2.0.0
+scikit-learn>=1.2.0
+```
+
+E instale:
 
 ```bash
-pip install pandas numpy scikit-learn
+pip install -r requirements.txt
 ```
 
-### 3. Estrutura de pastas esperada
+## 💻 Como Usar
 
-```
-seu_projeto/
-│
-├── kaggle_data/
-│   └── data/
-│       ├── base_data/
-│       │   ├── fixtures.csv
-│       │   ├── standings.csv
-│       │   ├── teamStats.csv
-│       │   ├── teams.csv
-│       │   └── leagues.csv
-│       │
-│       ├── commentary_data/
-│       ├── keyEvents_data/
-│       └── ...
-│
-├── soccer_predictor.py
-├── data_explorer.py
-└── main_runner.py
+### 1. Treinar o Modelo
+
+Execute o pipeline completo (ETL → Features → Treinamento):
+
+```bash
+python main.py --mode train
 ```
 
----
+Ou simplesmente:
 
-## 📁 Estrutura dos Arquivos
+```bash
+python main.py
+```
 
-### 1. `soccer_predictor.py`
-Classe principal do preditor com:
+**Saída esperada:**
+- Modelo treinado salvo em `models/best_model.json`
+- Scaler salvo em `models/scaler.pkl`
+- Features salvas em `models/feature_columns.json`
+- Logs em `logs/training_log.txt`
+
+### 2. Fazer Predições
+
+Modo interativo para predizer resultados:
+
+```bash
+python main.py --mode predict
+```
+
+Você será solicitado a informar:
+- Estatísticas do time da casa
+- Estatísticas do time visitante
+
+**Exemplo de interação:**
+
+```
+--- Time da Casa ---
+Vitórias recentes (últimos 5 jogos): 3
+Empates recentes: 1
+Derrotas recentes: 1
+Média de gols por jogo: 1.8
+Média de gols sofridos por jogo: 1.0
+Pontos na tabela: 45
+
+--- Time Visitante ---
+Vitórias recentes (últimos 5 jogos): 2
+Empates recentes: 2
+Derrotas recentes: 1
+Média de gols por jogo: 1.5
+Média de gols sofridos por jogo: 1.2
+Pontos na tabela: 38
+
+🎯 RESULTADO DA PREDIÇÃO
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+🏆 Resultado Previsto: Vitória Casa
+📊 Confiança: 65.3%
+
+📈 Probabilidades:
+   • Empate: 18.2%
+   • Vitória Casa: 65.3%
+   • Vitória Visitante: 16.5%
+```
+
+### 3. Avaliar o Modelo
+
+Avalia o desempenho do modelo em todos os dados:
+
+```bash
+python main.py --mode evaluate
+```
+
+## 🔄 Pipeline de Dados
+
+### Etapa 1: ETL (etl.py)
+
+**Processo:**
+1. Carrega todos os arquivos CSV
+2. Converte datas para datetime
+3. Converte unidades (lbs → kg, ft'in" → metros)
+4. Calcula BMI dos jogadores
+5. Trata valores faltantes
+6. Filtra apenas partidas completas
+
+**Saída:** Dicionário com DataFrames processados
+
+### Etapa 2: Feature Engineering (feature_engineering.py)
+
+**Processo:**
+1. Inicializa master_df com fixtures
+2. Cria variável target (0=Empate, 1=Casa, 2=Visitante)
+3. Adiciona features de forma recente
+4. Adiciona features de performance
+5. Adiciona estatísticas de jogo
+6. Adiciona qualidade da escalação
+7. Cria features derivadas
+
+**Saída:** DataFrame com 30+ features
+
+### Etapa 3: Treinamento (model_xgboost.py)
+
+**Processo:**
+1. Separa treino/teste (80/20 estratificado)
+2. Normaliza features (StandardScaler)
+3. Realiza validação cruzada
+4. Treina XGBoost
+5. Avalia métricas
+6. Salva modelo
+
+**Saída:** Modelo treinado + métricas
+
+## 📊 Features Criadas
+
+### Forma Recente (últimos 5 jogos)
+- `home_recent_wins` / `away_recent_wins`
+- `home_recent_draws` / `away_recent_draws`
+- `home_recent_losses` / `away_recent_losses`
+- `home_form_points` / `away_form_points`
+
+### Performance Geral
+- `home_goals_per_game` / `away_goals_per_game`
+- `home_goals_against_per_game` / `away_goals_against_per_game`
+- `home_goal_difference` / `away_goal_difference`
+- `home_points` / `away_points`
+- `home_wins` / `away_wins`
+- `home_draws` / `away_draws`
+- `home_losses` / `away_losses`
+
+### Estatísticas de Jogo
+- `home_possession_avg` / `away_possession_avg`
+- `home_pass_accuracy` / `away_pass_accuracy`
+- `home_shot_accuracy` / `away_shot_accuracy`
+
+### Qualidade da Escalação
+- `home_avg_age` / `away_avg_age`
+- `home_avg_height` / `away_avg_height`
+- `home_avg_weight` / `away_avg_weight`
+
+### Features Derivadas
+- `points_difference`: Diferença de pontos na tabela
+- `form_difference`: Diferença de forma recente
+- `attack_difference`: Diferença ofensiva
+- `defense_difference`: Diferença defensiva
+
+## 🤖 Modelo
+
+### XGBoost Classifier
+
+**Hiperparâmetros:**
+```python
+{
+    'objective': 'multi:softmax',
+    'num_class': 3,
+    'max_depth': 6,
+    'learning_rate': 0.1,
+    'n_estimators': 200,
+    'subsample': 0.8,
+    'colsample_bytree': 0.8,
+    'random_state': 42
+}
+```
+
+### Processo de Treinamento
+
+1. **Split**: 80% treino, 20% teste (estratificado)
+2. **Normalização**: StandardScaler
+3. **Validação Cruzada**: 5-fold estratificado
+4. **Early Stopping**: 50 rounds
+5. **Métrica**: Multi-class Log Loss
+
+## 📈 Resultados
+
+### Métricas Esperadas
+
+| Métrica | Valor Típico |
+|---------|--------------|
+| Acurácia | 50-60% |
+| Precision (macro) | 45-55% |
+| Recall (macro) | 45-55% |
+| F1-Score (macro) | 45-55% |
+
+**Nota:** Futebol é inerentemente difícil de prever. Acurácias de 50-60% são consideradas boas no domínio.
+
+### Distribuição Típica de Classes
+
+- **Vitória Casa**: ~45%
+- **Empate**: ~27%
+- **Vitória Visitante**: ~28%
+
+### Feature Importance
+
+As features mais importantes geralmente são:
+1. `points_difference`
+2. `home_form_points`
+3. `home_goals_per_game`
+4. `away_goals_per_game`
+5. `form_difference`
+
+## 🔧 Troubleshooting
+
+### Erro: "Arquivo não encontrado"
+
+**Solução:** Verifique se os arquivos CSV estão nas pastas corretas:
+```
+data/base_data/fixtures.csv
+data/base_data/standings.csv
+etc.
+```
+
+### Erro: "Colunas faltando"
+
+**Solução:** Certifique-se de que os CSVs têm todas as colunas necessárias. Veja `estrutura_data.docx`.
+
+### Modelo com baixa acurácia
+
+**Possíveis causas:**
+1. Dados insuficientes
+2. Features não representativas
+3. Hiperparâmetros não otimizados
+
+**Soluções:**
+1. Adicione mais dados históricos
+2. Crie novas features (form home/away separado)
+3. Faça hyperparameter tuning
+
+### Memória insuficiente
+
+**Solução:** Use a função `reduce_mem_usage()` em `utils.py`:
+
+```python
+from utils import reduce_mem_usage
+df = reduce_mem_usage(df)
+```
+
+## 📝 Logs
+
+Todos os logs são salvos em `logs/training_log.txt` com informações sobre:
 - Carregamento de dados
+- Pré-processamento
 - Feature engineering
-- Treinamento do modelo
-- Predições
+- Treinamento
+- Métricas de avaliação
+- Feature importance
 
-### 2. `data_explorer.py`
-Ferramenta para explorar o dataset:
-- Buscar times e ligas
-- Ver classificações
-- Análise de estatísticas
-- Encontrar próximas partidas
+## 🤝 Contribuindo
 
-### 3. `main_runner.py`
-Script de execução com menu interativo
+Para adicionar novas features:
 
----
-
-## 🚀 Como Usar
-
-### Opção 1: Menu Interativo (Recomendado)
-
-```bash
-python main_runner.py
-```
-
-Você verá um menu com opções:
-1. **Explorar dados** - Conhecer times, ligas e IDs
-2. **Treinar modelo** - Treinar o algoritmo preditivo
-3. **Fazer predições** - Prever resultados de partidas
-4. **Pipeline completo** - Treinar e prever
-
-### Opção 2: Linha de Comando
-
-```bash
-# Explorar dados
-python main_runner.py --explore
-
-# Treinar modelo
-python main_runner.py --train
-
-# Fazer predições
-python main_runner.py --predict
-```
-
-### Opção 3: Uso Programático
-
-```python
-from soccer_predictor import SoccerMatchPredictor
-
-# Configurar caminho
-BASE_PATH = r'C:\caminho\para\seus\dados'
-
-# Inicializar
-predictor = SoccerMatchPredictor(BASE_PATH)
-
-# Carregar dados
-predictor.load_data()
-
-# Criar features
-predictor.engineer_features(sample_size=10000)
-
-# Treinar
-results = predictor.train_model()
-
-# Prever partida
-predictor.predict_match(
-    home_team_id=86,      # Real Madrid
-    away_team_id=83,      # Barcelona
-    league_id=140,        # La Liga
-    season_type=2
-)
-```
-
----
-
-## 📊 Features do Modelo
-
-O modelo utiliza mais de 40 features divididas em categorias:
-
-### 1. **Forma Recente** (últimos 5 jogos)
-- Pontos por jogo (PPG)
-- Gols marcados/sofridos médios
-- Taxa de vitórias
-- Para mandante e visitante
-
-### 2. **Confrontos Diretos (H2H)**
-- Taxa de vitórias históricas
-- Taxa de empates
-- Número de confrontos
-
-### 3. **Classificação (Standings)**
-- Posição na tabela
-- Pontos totais
-- Vitórias/Empates/Derrotas
-- Saldo de gols
-- PPG da temporada
-- Taxa de vitórias
-
-### 4. **Estatísticas do Time**
-- Posse de bola média
-- Chutes totais/a gol
-- Escanteios
-- Cartões
-- Faltas
-- Defesas
-
-### 5. **Features Derivadas**
-- Diferença de posição na tabela
-- Diferença de pontos
-- Diferença de forma recente
-- Diferença de saldo de gols
-
----
-
-## 📈 Resultados Esperados
-
-### Métricas Típicas:
-
-| Métrica | Valor Esperado |
-|---------|----------------|
-| **Acurácia Geral** | 50-55% |
-| **Precisão Home Win** | 55-60% |
-| **Precisão Draw** | 30-35% |
-| **Precisão Away Win** | 45-50% |
-
-### Por que essas métricas?
-
-- **Baseline aleatório**: 33% (1 em 3 chances)
-- **Nosso modelo**: 50-55% = **melhoria de 50-65%**
-- Empates são mais difíceis de prever (menos padrão)
-- Vitórias do mandante são mais previsíveis (vantagem de casa)
-
-### Features Mais Importantes (típicas):
-
-1. Forma recente (PPG)
-2. Diferença de posição na tabela
-3. Confrontos diretos
-4. Saldo de gols
-5. Pontos na classificação
-
----
-
-## 💡 Exemplos
-
-### Exemplo 1: Explorar Dados
-
-```python
-from data_explorer import SoccerDataExplorer
-
-explorer = SoccerDataExplorer(BASE_PATH)
-explorer.load_all_data()
-
-# Buscar time
-explorer.search_team('Real Madrid')
-# Output: ID: 86, Nome: Real Madrid, País: Spain
-
-# Buscar liga
-explorer.search_league('Champions')
-# Output: ID: 2, Nome: UEFA Champions League
-
-# Ver classificação
-explorer.get_league_standings(140)  # La Liga
-```
-
-### Exemplo 2: Treinar Modelo Rápido
-
-```python
-from soccer_predictor import SoccerMatchPredictor
-
-predictor = SoccerMatchPredictor(BASE_PATH)
-predictor.load_data()
-
-# Usar amostra pequena para teste rápido
-predictor.engineer_features(sample_size=5000)
-results = predictor.train_model()
-
-print(f"Acurácia: {results['test_accuracy']:.1%}")
-```
-
-### Exemplo 3: Predição Completa
-
-```python
-# Exemplo: Real Madrid vs Barcelona
-result = predictor.predict_match(
-    home_team_id=86,      # Real Madrid
-    away_team_id=83,      # Barcelona  
-    league_id=140,        # La Liga
-    season_type=2
-)
-
-# Output:
-# 🔮 PREDIÇÃO:
-#    Resultado previsto: Home Win
-#    Probabilidades:
-#       Away Win: 25.3%
-#       Draw:     22.1%
-#       Home Win: 52.6%
-```
-
-### Exemplo 4: Próximas Partidas de um Time
-
-```python
-explorer = SoccerDataExplorer(BASE_PATH)
-explorer.load_all_data()
-
-# Ver próximas 5 partidas do Real Madrid
-explorer.find_upcoming_matches(team_id=86, limit=5)
-
-# Output com IDs para usar no predictor
-```
-
----
-
-## 🎓 Workflow Recomendado
-
-### Para Primeiro Uso:
-
-1. **Execute o explorador** para conhecer o dataset
-   ```bash
-   python main_runner.py --explore
-   ```
-
-2. **Busque os times** que você quer prever
-   - Anote os `teamId`
-   - Anote os `leagueId`
-
-3. **Treine o modelo** (comece com amostra média)
-   ```bash
-   python main_runner.py --train
-   ```
-   - Escolha opção 2 (10.000 partidas)
-   - Aguarde ~2-5 minutos
-
-4. **Faça predições**
-   ```bash
-   python main_runner.py --predict
-   ```
-   - Use os IDs anotados
-   - Analise as probabilidades
-
----
-
-## 🔍 Troubleshooting
-
-### Erro: "File not found"
-**Solução**: Verifique o caminho em `BASE_PATH` no código
-
-### Erro: "Team ID not found"
-**Solução**: Use o explorador para encontrar IDs válidos
-
-### Baixa acurácia (< 45%)
-**Possíveis causas**:
-- Amostra muito pequena (use mais dados)
-- Liga com poucos dados históricos
-- Partidas muito imprevisíveis (copas, amistosos)
-
-### Processamento lento
-**Soluções**:
-- Use `sample_size` menor para testes
-- Processe menos features
-- Use máquina mais potente
-
----
-
-## 📚 Próximos Passos (Melhorias Futuras)
-
-### Nível Avançado:
-
-1. **Ensemble Methods**
-   - Combinar Random Forest + XGBoost + LightGBM
-   - Voting Classifier
-
-2. **Deep Learning**
-   - LSTM para sequências temporais
-   - Neural Networks com embeddings
-
-3. **Features Adicionais**
-   - Lineups (escalações)
-   - Player stats (estatísticas individuais)
-   - Weather data (clima)
-   - Odds de casas de apostas
-
-4. **Calibração de Probabilidades**
-   - Platt Scaling
-   - Isotonic Regression
-
-5. **Análise por Liga**
-   - Modelos especializados por campeonato
-
----
-
-## 📞 Suporte
-
-### Erros Comuns:
-
-| Erro | Solução |
-|------|---------|
-| `KeyError` | Verificar nomes das colunas no CSV |
-| `ValueError` | Verificar tipos de dados (int vs float) |
-| `MemoryError` | Reduzir `sample_size` |
-| `IndexError` | Verificar se há dados suficientes |
-
----
+1. Edite `feature_engineering.py`
+2. Adicione a nova feature em `FEATURE_GROUPS` no `config.py`
+3. Atualize `ALL_FEATURES`
+4. Retreine o modelo
 
 ## 📄 Licença
 
 Este projeto é para fins educacionais.
 
----
+## 👥 Autores
 
-## 🙏 Créditos
-
-- **Dataset**: ESPN Soccer API (via Kaggle)
-- **Algoritmo**: Random Forest (scikit-learn)
-- **Desenvolvido para**: Projeto Final - 6º Período
+Sistema de Inteligência - Projeto Final
 
 ---
 
-## ✅ Checklist de Verificação
-
-Antes de começar, certifique-se:
-
-- [ ] Python 3.8+ instalado
-- [ ] Bibliotecas instaladas (`pandas`, `numpy`, `scikit-learn`)
-- [ ] Dataset baixado e descompactado
-- [ ] Caminho `BASE_PATH` configurado corretamente
-- [ ] CSVs principais presentes (`fixtures.csv`, `standings.csv`, `teamStats.csv`)
-
----
-
-**Versão**: 1.0  
-**Última atualização**: Dezembro 2024  
-**Status**: ✅ Pronto para uso
-
-🎯 **Boa sorte com suas predições!**
+**Última atualização:** Dezembro 2024
