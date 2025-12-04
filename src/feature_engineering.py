@@ -382,11 +382,11 @@ class FeatureEngineer:
         derived_cols = [col for col in derived_cols if col in self.master_df.columns]
         
         final_cols = essential_cols + feature_cols + derived_cols
-        self.master_df = self.master_df[final_cols].copy()
         
         # Remover duplicatas
         initial_len = len(self.master_df)
         self.master_df.drop_duplicates(subset=['eventId'], inplace=True)
+        self.master_df = self.master_df[final_cols].copy()
         if len(self.master_df) < initial_len:
             logger.warning(f"Removidas {initial_len - len(self.master_df)} linhas duplicadas")
         
